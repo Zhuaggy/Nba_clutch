@@ -1,0 +1,26 @@
+Contracts data added
+Who has worst contract?
+What types of players are the most valuable?
+
+
+Main problem:
+
+- Study on intangeble metrics: Clutch Gene!
+
+	- Need to understand a player’s role
+		-classifying player types
+		- identified that offence and defence should be separated
+	- When are there high pressure situations?
+		- i.e. when do players of specific roles experience a reduction in ability?
+	- How well do specific players perform in these high pressure situations? 
+
+Finished so far:
+- Classifying offensive players, and identified high pressure situations for them.
+- Example (show Gordon hayward, Kyle Lowry and Derozan shot types)
+	- GH and KL are quite close when a nearest neighbour search is applied
+- Show pressure DD, KL
+	- not quite as strong under pressure
+ß
+
+
+Collect 
