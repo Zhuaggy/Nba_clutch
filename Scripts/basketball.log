@@ -1,0 +1,10 @@
+DEBUG:root:Begin grabbing name list
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.basketball-reference.com:80 "GET /players/a/ HTTP/1.1" 301 185
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:https://www.basketball-reference.com:443 "GET /players/a/ HTTP/1.1" 200 None
+DEBUG:root:Begin grabbing name list
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:http://www.basketball-reference.com:80 "GET /players/a/ HTTP/1.1" 301 185
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.basketball-reference.com
+DEBUG:requests.packages.urllib3.connectionpool:https://www.basketball-reference.com:443 "GET /players/a/ HTTP/1.1" 200 None
