@@ -1,0 +1,1904 @@
+,0,1,2,3,4,5
+0,PERSON_ID,SCHOOL,HEIGHT,WEIGHT,POSITION,DRAFT_NUMBER
+1,51,Louisiana State,6-1,162,Guard,3
+2,1505,San Jose State,6-6,235,Forward-Guard,11
+3,949,California,6-9,245,Forward,3
+4,203518,,6-6,190,Guard-Forward,32
+5,101165,Pepperdine,6-5,185,Guard,60
+6,203112,Baylor,6-7,240,Forward,37
+7,200801,Arizona,,,,54
+8,203919,UCLA,6-5,209,Guard,22
+9,203500,Pittsburgh,7-0,255,Center,12
+10,912,Syracuse,6-8,241,Forward,39
+11,202399,Connecticut,,,,Undrafted
+12,201167,UCLA,6-5,215,Guard-Forward,27
+13,200772,Michigan State,,,,28
+14,201336,Missouri State,6-2,190,Guard,Undrafted
+15,201582,"Saint Etienne, France",7-2,248,Center,20
+16,203006,Cal State-Fullerton,5-11,185,Guard,Undrafted
+17,202374,Florida State,7-1,252,Center,50
+18,203128,Galatasaray,6-10,240,Forward-Center,53
+19,202332,Kansas,6-11,250,Center,11
+20,200746,Texas,6-11,260,Forward,2
+21,1626146,Kansas,6-8,240,Forward,Undrafted
+22,724,Virginia,6-1,190,Guard,29
+23,2042,Fresno State,6-5,205,Guard,13
+24,201570,West Virginia,6-8,230,Forward,8
+25,2349,Iowa State,6-10,265,Forward,17
+26,706,Pennsylvania,6-4,184,Guard,49
+27,202730,Temple,6-9,260,Forward-Center,50
+28,2124,Villanova,6-10,255,Forward,Undrafted
+29,951,Connecticut,6-5,205,Guard,5
+30,2754,Oklahoma State,6-4,213,Guard-Forward,25
+31,200984,Weber State,6-11,250,Center,Undrafted
+32,201165,Rice,6-6,225,Guard,25
+33,308,Duquesne,,,,33
+34,1747,Fresno State,6-2,175,Guard,39
+35,1824,Liberty,,,,Undrafted
+36,680,Penn State,6-10,270,Forward-Center,Undrafted
+37,732,Southern Illinois,,,,Undrafted
+38,202329,Wake Forest,6-9,220,Forward,8
+39,200811,Nevada-Las Vegas,6-9,220,Forward,Undrafted
+40,2365,Blinn,,,,Undrafted
+41,2431,"Frankston, Australia",6-11,247,Center,36
+42,101187,Michigan State,6-6,220,Forward-Guard,Undrafted
+43,202079,Memphis,,,,Undrafted
+44,1507,Kentucky,6-5,195,Guard,13
+45,246,Houston,6-10,250,Center-Forward,23
+46,202341,Oklahoma State,6-6,213,Guard-Forward,20
+47,1626147,Virginia,6-6,228,Guard-Forward,21
+48,72,Georgia Tech,,,,2
+49,203937,UCLA,6-9,230,Forward-Guard,30
+50,98,Illinois,6-6,228,Forward-Guard,11
+51,201583,California,6-10,240,Forward,21
+52,1000,Georgia,6-6,215,Guard-Forward,54
+53,335,Georgia,6-8,200,Guard-Forward,10
+54,101149,Lithuania,7-2,240,Center,44
+55,1512,Australia,7-0,249,Center,18
+56,203507,Greece,6-11,222,Forward-Guard,15
+57,203648,Greece,,,,51
+58,2546,Syracuse,6-8,240,Forward,3
+59,21,Nevada-Las Vegas,6-1,180,Guard,12
+60,201202,Nevada-Las Vegas,6-9,245,Center,Undrafted
+61,203544,Macedonia,6-11,260,Forward-Center,Undrafted
+62,203951,Michigan State,,,,Undrafted
+63,2737,Brigham Young,6-11,270,Center,8
+64,2425,Illinois,6-11,250,Forward,31
+65,2240,Arizona,6-4,215,Guard,30
+66,2772,UCLA,6-8,215,Forward-Guard,43
+67,769,Iowa,6-2,185,Guard,18
+68,2220,Pepperdine,6-5,185,Guard,23
+69,353,Fayetteville State,6-1,180,Guard,Undrafted
+70,200756,Connecticut,6-11,235,Forward-Center,12
+71,2306,Florida International,6-2,200,Guard,Undrafted
+72,201589,Kansas,6-9,235,Forward,27
+73,201600,Turkey,7-0,255,Center-Forward,36
+74,355,Memphis,,,,39
+75,173,Alabama,6-8,215,Forward-Guard,Undrafted
+76,1088,South Florida,5-11,185,Guard,Undrafted
+77,278,Nevada-Las Vegas,6-8,213,Forward-Guard,9
+78,201571,Texas,6-0,183,Guard,9
+79,200788,Illinois,6-10,235,Forward,41
+80,1134,Arizona State,,,,48
+81,138,Seton Hall,6-9,240,Center,15
+82,1895,Duke,6-2,180,Guard,14
+83,202970,"Tepic, Mexico",6-10,250,Forward-Center,Undrafted
+84,201965,Arizona State,6-9,250,Forward-Center,31
+85,101235,Kentucky,6-5,215,Guard,Undrafted
+86,203569,Iowa State,6-5,225,Guard,Undrafted
+87,202337,Nevada,6-9,225,Forward,16
+88,2053,Croatia,7-1,290,Center,24
+89,1847,North Carolina State,6-11,247,Forward,7
+90,1753,UCLA,6-6,213,Guard,45
+91,203946,New Mexico,6-9,250,Forward-Center,49
+92,1858,Ohio State,,,,Undrafted
+93,2486,Oklahoma State,,,,Undrafted
+94,1627758,Wichita State,6-4,220,Guard,Undrafted
+95,452,Hartford,6-11,240,Forward,8
+96,1627735,Vanderbilt,6-4,202,Guard,17
+97,200764,South Carolina,,,,20
+98,2556,Nevada-Las Vegas,6-2,205,Guard,13
+99,2571,"Sau Paulo, Brazil",6-3,194,Guard,28
+100,200826,Northeastern,6-0,185,Guard,Undrafted
+101,200745,"Rome, Italy",,,,1
+102,787,Auburn,6-6,252,Forward,5
+103,2057,St. John's (NY),6-1,185,Guard,28
+104,203084,North Carolina,6-8,225,Forward,7
+105,2440,UCLA,6-7,226,Forward,45
+106,2857,Seton Hall,,,,Undrafted
+107,2853,Memphis,7-0,250,Forward-Center,Undrafted
+108,344,Boston College,5-11,165,Guard,16
+109,699,Oregon State,6-7,210,Guard,15
+110,1003,Georgia Tech,6-5,191,Guard,57
+111,468,Georgia Tech,,,,21
+112,203115,Memphis,6-6,175,Guard-Forward,40
+113,101188,North Carolina-Charlotte,6-5,215,Guard,Undrafted
+114,101138,Louisiana State,6-8,250,Forward,33
+115,1766,Michigan,6-10,230,Forward,58
+116,2370,China,,,,Undrafted
+117,101212,Uruguay,6-10,268,Forward-Center,Undrafted
+118,2471,Arizona State,,,,Undrafted
+119,1499,Texas Tech,6-11,240,Center,5
+120,2203,Duke,6-8,220,Forward,6
+121,201587,"Lisieux, France",6-8,200,Guard-Forward,25
+122,2437,Maryland,6-8,260,Forward,43
+123,201573,Arizona,6-3,200,Guard,11
+124,203382,Washington State,6-10,260,Center-Forward,Undrafted
+125,203145,Old Dominion,6-5,201,Forward-Guard,Undrafted
+126,203078,Florida,6-5,207,Guard,3
+127,2602,North Dakota,6-9,237,Forward,33
+128,1627736,Florida State,6-5,196,Guard,19
+129,201563,Kansas State,6-10,235,Forward,2
+130,201958,"Pointe-a-Pitre, Guadeloupe",6-2,185,Guard,25
+131,1133,Arkansas,6-3,200,Guard,Undrafted
+132,201158,"Bologna, Italy",6-5,210,Guard-Forward,18
+133,2294,Michigan State,6-3,200,Guard,Undrafted
+134,1952,Florida International,6-5,210,Guard,Undrafted
+135,2559,Boston College,6-1,180,Guard,16
+136,1627761,Saint Joseph's,6-6,210,Forward-Guard,21
+137,1627733,,7-1,225,Forward,4
+138,1886,Picayune HS (MS),7-0,230,Forward,5
+139,203968,,,,,Undrafted
+140,104,Creighton,,,,3
+141,1736,Oregon State,,,,28
+142,203461,Nevada-Las Vegas,,,,1
+143,1120,Notre Dame,,,,38
+144,712,Arizona State,6-9,235,Center-Forward,27
+145,128,Alabama,6-8,220,Forward,Undrafted
+146,202728,Oakland,,,,48
+147,1627791,Providence,,,,51
+148,202722,,6-10,210,Forward,42
+149,696,Georgia Tech,5-11,182,Guard,23
+150,201976,Arkansas,6-1,185,Guard,42
+151,204021,New Mexico State,,,,Undrafted
+152,1710,Arizona,6-2,195,Guard,2
+153,2740,"Riga, Latvia",,,,11
+154,1497,Colorado,6-3,210,Guard,3
+155,202687,"Lubumbashi, DR Congo",6-9,255,Center-Forward,7
+156,202357,,6-10,225,Forward,35
+157,204028,Kansas,6-9,250,Center-Forward,Undrafted
+158,201971,Pittsburgh,,,,37
+159,2581,Maryland,6-3,172,Guard,38
+160,200807,Iowa State,6-0,205,Guard,60
+161,101154,South Kent Prep (CT),6-11,260,Center-Forward,49
+162,302,Oklahoma,,,,12
+163,202339,Kentucky,6-1,205,Guard,18
+164,916,Cincinnati,6-10,242,Forward-Center,25
+165,1548,Pittsburgh,7-0,250,Center-Forward,54
+166,203505,Marquette,6-4,200,Guard,Undrafted
+167,2800,Cincinnati,,,,Undrafted
+168,2586,Kentucky,6-5,215,Guard-Forward,43
+169,202711,,6-8,225,Guard-Forward,31
+170,177,Wake Forest,,,,12
+171,101106,Utah,,,,1
+172,1564,Auburn-Montgomery,,,,Undrafted
+173,1627762,Weber State,6-9,235,Forward-Center,52
+174,1121,Nevada-Las Vegas,,,,Undrafted
+175,2588,Florida,6-10,235,Center-Forward,45
+176,1626164,Kentucky,6-6,206,Guard,13
+177,511,Missouri,6-2,185,Guard,Undrafted
+178,202344,Clemson,6-8,228,Forward,23
+179,200767,Connecticut,6-10,240,Forward-Center,23
+180,1916,Penn State,6-11,230,Center,35
+181,1522,Maryland,6-6,226,Forward,28
+182,2430,Duke,6-9,258,Forward,34
+183,2414,Stanford,7-0,242,Center,18
+184,1953,Cuba,6-8,220,Forward,Undrafted
+185,2547,Georgia Tech,6-11,235,Forward,4
+186,2257,Georgetown,7-0,257,Center,49
+187,1898,Old Dominion,6-10,253,Forward,17
+188,1477,Cal State-Fullerton,6-7,200,Forward,Undrafted
+189,1763,Iowa,,,,55
+190,194,Oklahoma,6-6,200,Guard,66
+191,1085,Pennsylvania,,,,Undrafted
+192,671,Colorado,,,,42
+193,1863,Eastern Michigan,5-5,133,Guard,Undrafted
+194,200841,UCLA,,,,Undrafted
+195,202342,Iowa State,6-10,230,Forward,21
+196,202340,Texas,6-2,180,Guard,19
+197,2214,Villanova,6-10,245,Forward,17
+198,762,Brigham Young,7-6,275,Center,2
+199,1361,Australia,6-10,265,Center,Undrafted
+200,1765,Xavier,6-8,245,Forward,57
+201,1920,Arizona,,,,39
+202,1882,Duke,6-9,254,Forward,1
+203,210,Oregon,5-11,173,Guard,11
+204,160,Wyoming,,,,Undrafted
+205,2452,St. Bonaventure,6-2,185,Guard,Undrafted
+206,201147,Florida,6-9,186,Guard-Forward,7
+207,2249,Auburn,,,,40
+208,200758,Arkansas,6-7,235,Forward,14
+209,2056,"Postojna, Slovenia",7-1,255,Center,27
+210,783,Penn State,,,,57
+211,201972,Washington,6-7,255,Forward,38
+212,1627763,Virginia,6-5,215,Guard,36
+213,201166,Oregon,6-0,161,Guard,26
+214,202705,Providence,6-5,200,Guard,25
+215,418,California-Irvine,5-11,165,Guard,Undrafted
+216,2810,DePaul,,,,Undrafted
+217,1626148,Stanford,,,,34
+218,201628,Cal State-Fullerton,6-2,175,Guard,Undrafted
+219,359,North Carolina State,6-8,220,Forward,43
+220,2245,Syracuse,,,,36
+221,244,Jacksonville,,,,19
+222,200793,Illinois,,,,46
+223,201974,Xavier,6-8,233,Forward,40
+224,2484,Texas-San Antonio,6-5,210,Guard,Undrafted
+225,2081,Indian Hills Community College,7-0,244,Center,52
+226,1871,Pepperdine,6-4,210,Guard,Undrafted
+227,203913,Missouri,6-5,214,Guard,Undrafted
+228,1627759,California,6-7,225,Forward,3
+229,2208,Northwest Florida State,,,,11
+230,2198,Glynn Academy HS (GA),6-11,290,Center,1
+231,203485,North Carolina State,6-5,189,Guard,52
+232,992,Murray State,,,,46
+233,203900,Oklahoma State,6-3,190,Guard,44
+234,1479,George Washington,6-10,260,Center-Forward,69
+235,136,Louisiana Tech,6-11,239,Forward-Center,29
+236,753,New Mexico State,6-2,190,Guard,31
+237,200769,Michigan State,,,,25
+238,2357,McNeese State,,,,Undrafted
+239,1594,Temple,6-4,190,Guard,Undrafted
+240,1627852,,6-8,195,Forward,Undrafted
+241,977,Lower Merion HS (PA),6-6,212,Forward-Guard,13
+242,95,Seton Hall,6-9,250,Forward,21
+243,1761,Clemson,6-4,210,Guard,53
+244,201978,Arizona,6-7,209,Forward,44
+245,146,Arizona,6-6,228,Guard-Forward,38
+246,1934,Creighton,6-5,195,Forward-Guard,53
+247,672,Iowa,6-10,229,Forward,Undrafted
+248,203493,North Carolina,6-7,205,Forward,25
+249,2469,Auburn,6-11,250,Center-Forward,Undrafted
+250,203504,Michigan,6-1,191,Guard,9
+251,202692,Colorado,6-6,214,Guard,12
+252,2766,Memphis,6-0,195,Guard,36
+253,101207,Minnesota,6-3,205,Guard,Undrafted
+254,197,Connecticut,6-7,218,Guard,20
+255,416,Minnesota,,,,9
+256,2406,Connecticut,6-7,228,Forward,10
+257,2866,Southern Illinois,6-10,260,Center,Undrafted
+258,202710,Marquette,6-7,231,Guard-Forward,30
+259,348,UCLA,6-5,210,Guard,Undrafted
+260,2446,La Salle,,,,52
+261,202779,Marquette,,,,Undrafted
+262,201182,Vanderbilt,6-7,220,Guard-Forward,42
+263,101115,St. Joseph HS (NJ),7-0,285,Center,10
+264,101198,Georgia Tech,6-0,185,Guard,Undrafted
+265,2560,Serbia,6-11,230,Forward-Center,17
+266,203998,,6-9,205,Forward,20
+267,679,Alabama,6-8,256,Forward,20
+268,262,San Diego State,,,,14
+269,201979,Florida,6-6,213,Guard,45
+270,101181,"Villanueva de la Serena, Spain",6-3,200,Guard,Undrafted
+271,154,Lamar,,,,Undrafted
+272,203484,Georgia,6-5,205,Guard,8
+273,948,Massachusetts,6-11,240,Center-Forward,2
+274,922,Clemson,7-0,279,Center-Forward,27
+275,203477,Murray State,6-0,201,Guard,34
+276,203991,,6-10,240,Center-Forward,25
+277,202382,Texas-El Paso,6-9,275,Forward,58
+278,2073,Purdue,6-8,240,Forward,44
+279,2367,California,,,,Undrafted
+280,200760,Memphis,,,,16
+281,156,Wichita State,,,,8
+282,713,Southern Illinois,,,,56
+283,1757,Texas Tech,6-4,210,Guard,49
+284,201960,Missouri,6-8,212,Forward,27
+285,2679,Notre Dame,,,,Undrafted
+286,1131,Virginia Tech,,,,Undrafted
+287,1853,Hawaii,,,,Undrafted
+288,2466,Louisiana State,6-5,210,Guard,Undrafted
+289,1713,North Carolina,6-6,220,Guard-Forward,5
+290,203487,Syracuse,6-6,190,Guard,11
+291,208,Florida State,6-3,185,Guard,24
+292,201956,"Yavne, Israel",6-9,225,Forward,23
+293,1509,Iowa State,6-11,275,Center,15
+294,1626161,Kentucky,7-0,240,Center,6
+295,190,Temple,7-0,255,Center,18
+296,76,Cal State-Fullerton,6-7,220,Forward,48
+297,1911,Villanova,6-3,190,Guard,30
+298,2763,Xavier,6-0,180,Guard,33
+299,201596,Kansas,6-2,190,Guard,34
+300,1472,Utah,,,,8
+301,2199,Dominquez H.S,7-1,240,Center,2
+302,201163,DePaul,6-8,225,Forward,23
+303,364,Kentucky,,,,8
+304,384,Indiana,6-7,210,Guard-Forward,6
+305,203805,Montana,,,,Undrafted
+306,432,North Carolina,6-10,245,Forward,27
+307,2735,Stanford,,,,6
+308,719,Wake Forest,,,,19
+309,164,Boise State,6-3,195,Guard,Undrafted
+310,1627737,Washington,6-10,233,Forward,8
+311,57,Pepperdine,,,,17
+312,202091,Temple,6-5,205,Guard,Undrafted
+313,1626176,Syracuse,6-9,250,Forward,36
+314,203902,Xavier,6-3,190,Guard,55
+315,203565,California,,,,Undrafted
+316,201947,Louisville,6-10,234,Forward,14
+317,203546,Belmont,6-3,175,Guard,Undrafted
+318,1721,Nevada-Las Vegas,6-11,221,Center-Forward,13
+319,1626262,,,,,Undrafted
+320,203903,Missouri,6-5,194,Guard,46
+321,201964,"Valencia, Spain",,,,22
+322,2049,Hofstra,5-11,170,Guard,20
+323,2043,Michigan State,,,,14
+324,1569,Central Connecticut State,7-3,212,Center,Undrafted
+325,715,Boise State,,,,Undrafted
+326,202708,Cleveland State,6-2,175,Guard,28
+327,934,Syracuse,,,,1
+328,902,Virginia Tech,6-2,182,Guard,40
+329,2044,Georgia Tech,7-0,260,Center,15
+330,1530,Florida State,6-4,196,Guard,36
+331,2260,Stanford,,,,52
+332,2215,Stanford,7-0,255,Center,18
+333,200776,Temple,6-6,220,Guard,29
+334,202395,Kansas,,,,Undrafted
+335,201954,UCLA,6-0,175,Guard,21
+336,2555,Kansas,6-10,255,Forward,12
+337,2173,North Carolina-Charlotte,6-0,175,Guard,Undrafted
+338,201144,Ohio State,6-1,175,Guard,4
+339,55,Providence,,,,Undrafted
+340,1626192,Notre Dame,6-5,210,Guard-Forward,41
+341,101215,Washington,,,,Undrafted
+342,2567,Illinois,6-9,250,Center-Forward,24
+343,201161,Ohio State,6-5,210,Guard,21
+344,2241,St. John's (NY),6-1,190,Guard,31
+345,1626188,Duke,6-2,179,Guard,Undrafted
+346,204022,Notre Dame,6-10,274,Forward,Undrafted
+347,203142,Colorado,,,,Undrafted
+348,895,DePaul,,,,35
+349,203955,Providence,6-1,165,Guard,Undrafted
+350,1526,Long Beach State,,,,32
+351,1432,Southern Mississippi,,,,Undrafted
+352,202408,Houston,6-11,255,Forward,Undrafted
+353,202326,Kentucky,6-11,270,Center-Forward,5
+354,203496,Tennessee State,6-9,215,Forward,Undrafted
+355,203459,California,6-6,215,Guard,31
+356,1544,Marquette,6-9,235,Forward,50
+357,2037,Michigan,6-5,195,Guard,8
+358,201621,Kentucky,6-5,210,Guard,58
+359,202348,Xavier,6-5,195,Guard,27
+360,2343,Penn State,6-0,185,Guard,Undrafted
+361,201159,Georgia Tech,6-5,200,Guard,19
+362,1506,Providence,,,,12
+363,180,Virginia,,,,Undrafted
+364,203109,Marquette,6-6,235,Forward,34
+365,187,DePaul,,,,2
+366,1907,Pittsburgh,,,,26
+367,201967,Villanova,6-8,230,Forward,33
+368,203099,Oregon State,,,,24
+369,1061,Temple,6-11,240,Center,Undrafted
+370,940,Detroit Mercy,,,,58
+371,223,Boston College,,,,22
+372,209,Virginia Tech,6-5,205,Guard-Forward,15
+373,2201,Thornwood HS (IL),,,,4
+374,201191,Oklahoma State,,,,51
+375,688,Georgia Southern,,,,Undrafted
+376,203552,Duke,6-2,185,Guard,Undrafted
+377,201939,Davidson,6-3,190,Guard,7
+378,2223,Seton Hall,,,,26
+379,956,Mississippi State,6-11,265,Center,10
+380,1498,Bowling Green,6-4,205,Guard,4
+381,2845,Kentucky,,,,Undrafted
+382,1380,Mt. San Antonio,,,,Undrafted
+383,2605,Auburn,6-6,200,Forward,Undrafted
+384,203584,Virginia Commonwealth,6-4,205,Guard,Undrafted
+385,390,Serbia,6-6,200,Guard,43
+386,212,George Washington,,,,14
+387,203540,Italy,6-8,215,Forward,Undrafted
+388,1600,Budapest AEH,6-9,230,Forward,Undrafted
+389,201176,Alabama,6-10,230,Forward,36
+390,203561,Brigham Young,,,,Undrafted
+391,203076,Kentucky,6-11,253,Forward-Center,1
+392,213,Texas-El Paso,,,,45
+393,1884,UCLA,6-3,212,Guard,3
+394,989,Arizona,,,,43
+395,905,Clemson,6-11,252,Center-Forward,13
+396,1627738,Michigan State,6-10,240,Forward,31
+397,202334,North Carolina,6-10,245,Forward-Center,13
+398,1023,Delaware State,6-5,195,Guard,Undrafted
+399,201175,Louisiana State,6-9,289,Forward-Center,35
+400,93,North Carolina,6-5,183,Guard,20
+401,2668,Wyoming,,,,Undrafted
+402,707,Texas Tech,6-7,205,Guard-Forward,48
+403,200781,Michigan State,,,,34
+404,1729,Iowa,,,,21
+405,426,Virginia Union,6-10,270,Center-Forward,Undrafted
+406,203958,Duke,,,,Undrafted
+407,1626183,Michigan State,6-6,225,Forward,56
+408,201286,Midwestern State,,,,Undrafted
+409,103,Arkansas,,,,8
+410,201948,Gonzaga,6-11,220,Forward,15
+411,201986,"Saint Catherine, France",6-5,195,Guard,53
+412,692,Florida,,,,34
+413,201942,Southern California,6-7,220,Guard,9
+414,203473,Southern California,7-0,245,Center,Undrafted
+415,143,Seton Hall,6-4,190,Guard,13
+416,1626214,Iowa State,,,,Undrafted
+417,1626155,Wisconsin,6-9,230,Forward,18
+418,219,North Carolina State,,,,29
+419,1627098,Virginia Tech,6-3,190,Guard,Undrafted
+420,183,Arizona,6-11,260,Center-Forward,10
+421,2568,"Santa Fe, Argentina",6-6,230,Guard-Forward,25
+422,960,Kentucky,6-2,189,Guard,16
+423,203521,Saint Mary's (CA),6-4,198,Guard,Undrafted
+424,725,Pacific,,,,Undrafted
+425,2736,Duke,6-9,220,Forward,7
+426,202458,Washington,,,,Undrafted
+427,1760,Eastern Michigan,6-4,184,Guard,52
+428,1627767,Kansas,6-9,220,Forward,33
+429,2564,"Cormeille-en-Parisis, France",6-8,250,Center-Forward,21
+430,200821,Pepperdine,6-7,225,Forward-Guard,Undrafted
+431,200799,Miami (FL),,,,52
+432,2424,Gonzaga,6-0,180,Guard,28
+433,2079,Idaho,,,,50
+434,1722,Arizona,6-5,190,Guard,14
+435,101143,Marquette,6-1,175,Guard,38
+436,203476,Louisville,6-11,240,Forward-Center,21
+437,203915,Colorado,6-6,200,Guard,38
+438,101113,Arizona State,,,,9
+439,2205,Oak Hill Academy (VA),7-0,280,Center,8
+440,124,Serbia,7-1,260,Center,26
+441,2413,Maryland,6-3,165,Guard,17
+442,1059,,,,,Undrafted
+443,1720,Utah,6-11,262,Center,12
+444,2039,Missouri,6-3,195,Guard,10
+445,201595,Memphis,6-9,275,Center-Forward,33
+446,200763,Rutgers,6-3,175,Guard,19
+447,428,Syracuse,,,,28
+448,201962,Florida State,,,,29
+449,201604,Memphis,,,,40
+450,202220,Virginia Tech,6-3,191,Guard,Undrafted
+451,201609,"Ljubljana, Slovenia",6-3,190,Guard,45
+452,204054,,6-5,200,Guard-Forward,Undrafted
+453,1068,Kansas,7-1,265,Center,26
+454,1724,Valparaiso,,,,16
+455,203580,UCLA,,,,Undrafted
+456,17,Houston,6-7,222,Guard,14
+457,1041,Montevallo,6-5,215,Guard-Forward,Undrafted
+458,1542,Yugoslavia,6-11,270,Center,48
+459,203083,Connecticut,6-11,279,Center,9
+460,404,Eastern Illinois,7-0,300,Center,33
+461,201,Yale,6-11,260,Center,75
+462,201162,Boston College,6-7,225,Forward,22
+463,2768,Duke,6-1,190,Guard,38
+464,1626251,Wisconsin,6-9,220,Forward,Undrafted
+465,247,McNeese State,6-3,195,Guard,18
+466,434,Missouri-Kansas City,,,,19
+467,1495,Wake Forest,6-11,250,Center-Forward,1
+468,2399,Duke,6-9,230,Guard-Forward,3
+469,1627739,Providence,6-4,210,Guard,5
+470,2648,Louisiana State,,,,Undrafted
+471,201142,Texas,6-9,240,Forward,2
+472,202406,Connecticut,6-3,180,Guard,Undrafted
+473,289,New Orleans,6-5,231,Guard,36
+474,768,Iowa,6-11,240,Forward-Center,19
+475,203921,Wichita State,6-8,210,Forward,34
+476,202365,West Virginia,6-9,215,Forward,43
+477,2569,Westbury Christian HS (TX),6-9,195,Forward,26
+478,204067,Virginia Tech,,,,Undrafted
+479,721,UCLA,5-10,166,Guard,47
+480,898,East Carolina,,,,21
+481,2451,Central Connecticut State,,,,57
+482,2823,Kent State,7-0,275,Center,Undrafted
+483,236,DePaul,6-3,210,Guard,20
+484,202197,Arkansas-Little Rock,,,,Undrafted
+485,378,Washington State,,,,48
+486,458,Boston College,6-2,185,Guard,30
+487,1918,Maryland,,,,37
+488,2064,Connecticut,5-10,200,Guard,34
+489,53,American International,6-5,225,Guard-Forward,160
+490,1627740,Marquette,6-11,245,Forward,18
+491,201961,North Carolina,6-4,200,Guard,28
+492,251,Arizona,6-8,220,Forward,3
+493,107,Tennessee,,,,9
+494,1677,Morehouse,6-5,220,Forward-Guard,Undrafted
+495,111,Notre Dame,6-8,240,Forward,5
+496,101145,"Lanier HS (Jackson, MS)",6-3,185,Guard,40
+497,442,Louisville,,,,1
+498,1922,California,,,,41
+499,2408,Fresno State,6-10,260,Center-Forward,12
+500,203954,Kansas,7-0,250,Center,3
+501,2765,Texas Tech,,,,35
+502,203119,Missouri,6-6,200,Guard,44
+503,203898,Syracuse,6-3,194,Guard,18
+504,203516,Long Beach State,6-7,210,Forward,50
+505,201623,Turkey,7-0,240,Center,60
+506,1915,Northwestern,6-11,250,Center,34
+507,967,Indiana,,,,27
+508,202379,Western Kentucky,6-9,200,Forward,55
+509,2230,Texas,6-5,220,Guard-Forward,Undrafted
+510,2501,Iowa,6-8,245,Center-Forward,Undrafted
+511,201936,Memphis,6-6,220,Guard-Forward,4
+512,101137,Duke,6-3,185,Guard,32
+513,121,Georgetown,7-0,255,Center,1
+514,201607,Georgetown,6-8,235,Forward,43
+515,203957,,6-6,190,Guard,5
+516,201963,"Kinshasa, DRC",6-7,210,Forward,30
+517,203105,Vanderbilt,6-11,265,Center,30
+518,202702,Morehead State,6-8,228,Forward,22
+519,200770,UCLA,,,,26
+520,2824,Southern California,,,,Undrafted
+521,1108,Nebraska,6-9,244,Forward,Undrafted
+522,203543,,6-11,260,Center,Undrafted
+523,202324,Georgia Tech,6-10,265,Forward-Center,3
+524,201174,Nevada,6-11,235,Forward,34
+525,994,Michigan State,6-8,255,Forward,48
+526,1627770,Oakland,5-9,176,Guard,54
+527,1626245,,6-9,266,Forward-Center,Undrafted
+528,203467,Arizona State,6-6,201,Guard-Forward,33
+529,101230,Fresno State,6-9,225,Forward,Undrafted
+530,101109,North Carolina,6-1,205,Guard,5
+531,2724,Detroit Mercy,6-7,210,Forward,Undrafted
+532,201164,"Palma de Mallorca, Spain",6-6,185,Guard,24
+533,273,Georgia Tech,6-7,215,Forward,Undrafted
+534,1627812,Indiana,6-0,180,Guard,Undrafted
+535,198,Duke,6-10,235,Forward,2
+536,201178,"Dnepropetrovsk, Ukraine",7-1,280,Center,38
+537,202361,Stanford,6-7,215,Guard-Forward,39
+538,714,Wisconsin,6-7,225,Guard-Forward,21
+539,1627827,Florida,6-8,220,Forward,Undrafted
+540,900,North Carolina-Wilmington,,,,50
+541,965,Arkansas-Little Rock,6-1,210,Guard,24
+542,2809,Kentucky,,,,Undrafted
+543,2033,Iowa State,,,,4
+544,2784,Manhattan,6-2,195,Guard,55
+545,201938,Syracuse,6-0,185,Guard,6
+546,1829,Washington State,,,,Undrafted
+547,202880,Cornell,,,,Undrafted
+548,1627854,Michigan State,6-3,190,Guard,Undrafted
+549,201814,Massachusetts,6-7,220,Forward,Undrafted
+550,2228,Houston,,,,50
+551,101213,Clemson,,,,Undrafted
+552,2551,Texas,,,,8
+553,2218,North Carolina,6-4,194,Guard,21
+554,202622,Arkansas,5-11,185,Guard,Undrafted
+555,1504,Cincinnati,6-8,260,Center-Forward,10
+556,323,Texas-El Paso,6-11,250,Center,35
+557,1902,Texas State,6-11,250,Forward-Center,21
+558,2238,Greece,6-10,219,Forward,47
+559,203095,France,6-7,205,Guard-Forward,20
+560,1762,Fresno State,,,,54
+561,296,North Carolina,6-7,235,Forward,24
+562,200751,Villanova,6-4,218,Guard,7
+563,1502,Colgate,6-10,270,Center,8
+564,2499,Gonzaga,,,,Undrafted
+565,1883,Maryland,6-3,210,Guard,2
+566,203479,San Diego State,6-5,191,Guard,41
+567,204025,,6-1,170,Guard,Undrafted
+568,202690,Brigham Young,,,,10
+569,200777,England,6-10,225,Center-Forward,30
+570,2782,Vanderbilt,,,,53
+571,101112,Arizona,6-11,255,Forward,8
+572,2673,Fresno State,,,,Undrafted
+573,957,North Carolina State,,,,11
+574,1444,Ohio State,6-9,230,Forward,51
+575,2429,UCLA,6-11,240,Center,33
+576,101184,Fairfield,,,,Undrafted
+577,2558,Louisville,,,,15
+578,202178,Georgia,6-1,200,Guard,Undrafted
+579,201568,"Sant'Angelo Lodigiano, Italy",6-10,225,Forward,6
+580,204038,Saint Joseph's,6-2,200,Guard,Undrafted
+581,333,Iowa,,,,63
+582,200816,Spain,,,,Undrafted
+583,2092,Providence,,,,Undrafted
+584,2682,Brazil,,,,Undrafted
+585,101128,Louisville,,,,23
+586,201242,Missouri,6-5,225,Guard,Undrafted
+587,1627868,George Washington,6-6,203,Guard-Forward,Undrafted
+588,1612,Memphis,5-10,156,Guard,Undrafted
+589,708,Farragut Academy HS (CHI),6-11,240,Forward,5
+590,1831,Santa Clara,,,,Undrafted
+591,1051,Indiana,6-11,250,Center,38
+592,203197,Iowa State,6-4,190,Guard,Undrafted
+593,1619,Illinois,6-2,183,Guard,Undrafted
+594,1727,Notre Dame,6-9,238,Forward,19
+595,201188,"Barcelona, Spain",7-1,255,Center,48
+596,2200,"Barcelona, Spain",7-0,250,Center-Forward,3
+597,423,Old Dominion,,,,16
+598,200752,Connecticut,6-8,230,Forward,8
+599,1845,Seton Hall,,,,Undrafted
+600,1627771,Syracuse,6-7,200,Guard-Forward,49
+601,1002,Arizona,6-2,187,Guard,56
+602,202087,Alabama,,,,Undrafted
+603,761,Georgia Tech,,,,42
+604,101153,"Pointe-Noire, Guadeloupe",6-7,215,Forward,48
+605,1904,Augsburg,6-8,235,Forward,23
+606,202331,Fresno State,6-9,220,Forward,10
+607,1627875,Georgia Tech,6-6,220,Guard,Undrafted
+608,200789,Texas,6-2,200,Guard,42
+609,1626780,New Mexico State,,,,Undrafted
+610,201959,Southern California,6-9,236,Forward,26
+611,201592,New Mexico,6-5,215,Guard,30
+612,201821,Northwestern State,,,,Undrafted
+613,2109,Weber State,,,,Undrafted
+614,383,Illinois,,,,5
+615,288,Nevada-Las Vegas,6-9,260,Forward,2
+616,1938,"Bahia Blanca, Argentina",6-6,205,Guard,57
+617,1921,Croatia,6-6,220,Guard,40
+618,202148,Alabama A&M,6-11,220,Center,Undrafted
+619,1901,Georgia Tech,,,,20
+620,2601,Greece,,,,58
+621,203497,France,7-1,245,Center,27
+622,924,Houston,,,,52
+623,101155,Providence,,,,50
+624,2400,Kansas,6-10,250,Forward,4
+625,1864,Princeton,6-10,220,Center,Undrafted
+626,203462,Kentucky,6-5,205,Guard,29
+627,203932,Arizona,6-9,220,Forward,4
+628,2732,Connecticut,6-3,205,Guard,3
+629,204079,New Mexico,,,,Undrafted
+630,201569,Indiana,6-4,215,Guard,7
+631,101162,"Lodz, Poland",6-11,240,Center,57
+632,202726,College of Charleston,6-3,200,Guard,46
+633,37,Indiana,,,,17
+634,101121,Oklahoma State,6-7,230,Forward,16
+635,101211,Oklahoma State,6-6,215,Guard-Forward,Undrafted
+636,1626203,Virginia Commonwealth,6-6,226,Guard-Forward,Undrafted
+637,101122,New Mexico,6-9,222,Forward-Guard,17
+638,258,Xavier,6-9,254,Forward-Center,8
+639,202,Michigan,,,,15
+640,265,Oklahoma,6-9,225,Forward,12
+641,270,Clemson,6-10,245,Center,10
+642,203924,Syracuse,6-9,210,Forward,39
+643,1626170,Notre Dame,6-4,198,Guard,19
+644,1514,Wisconsin,,,,20
+645,201189,Pittsburgh,7-0,270,Center,49
+646,1070,Clemson,,,,
+647,1516,California,6-3,210,Guard,22
+648,1026,Nevada-Las Vegas,,,,Undrafted
+649,81,Iowa State,6-5,210,Guard,13
+650,920,Oregon State,6-9,225,Forward,23
+651,201980,North Carolina,6-6,215,Guard-Forward,46
+652,101209,Hampton,,,,Undrafted
+653,203110,Michigan State,6-7,230,Forward,35
+654,203475,Virginia Tech,,,,46
+655,101123,Gulf Shores Aca. (TX),6-7,205,Forward,18
+656,203210,Alabama,6-9,227,Forward,Undrafted
+657,201145,Georgetown,6-9,235,Forward,5
+658,1036,Georgia,,,,39
+659,201192,Florida,6-0,177,Guard,52
+660,2584,Detroit Mercy,6-3,205,Guard,41
+661,201590,Syracuse,6-11,226,Forward,28
+662,101158,Louisiana-Lafayette,,,,53
+663,2696,Temple,6-2,175,Guard,Undrafted
+664,1559,Seton Hall,6-5,230,Guard-Forward,Undrafted
+665,201933,Oklahoma,6-10,251,Forward,1
+666,2204,Seton Hall,,,,7
+667,201981,Oklahoma,6-7,238,Forward,48
+668,1575,Missouri,,,,Undrafted
+669,101219,North Carolina State,6-3,185,Guard,Undrafted
+670,339,North Carolina State,6-10,250,Forward,6
+671,203268,California-Berkeley,6-3,189,Guard,Undrafted
+672,2062,Indiana,6-2,185,Guard,32
+673,2775,Yonsei (KOR),7-3,305,Center,46
+674,201632,"Ahvaz, Iran",7-2,265,Center,Undrafted
+675,201612,Oregon,6-6,220,Guard,48
+676,203798,North Carolina,6-6,230,Forward-Guard,26
+677,2409,Tennessee,,,,13
+678,917,UCLA,,,,79
+679,200837,George Washington,6-8,230,Forward,Undrafted
+680,1032,Texas Tech,6-7,240,Forward-Guard,Undrafted
+681,984,Tennessee,7-0,245,Center,38
+682,202706,Texas,6-7,220,Guard-Forward,26
+683,203120,Louisiana State,7-0,255,Center,45
+684,1888,Connecticut,6-7,193,Guard,7
+685,2347,Mississippi State,6-8,205,Forward,Undrafted
+686,676,Pittsburgh,7-2,330,Center,Undrafted
+687,1985,St. John's (NY),,,,Undrafted
+688,67,Georgia Tech,,,,9
+689,1627773,Purdue,7-0,250,Center,46
+690,241,Kansas,6-7,205,Forward,38
+691,1052,Western Michigan,6-10,240,Center,Undrafted
+692,203162,Notre Dame,6-3,203,Guard,Undrafted
+693,201946,North Carolina,6-9,250,Forward,13
+694,2580,Brigham Young,6-6,205,Guard-Forward,37
+695,1682,Kentucky,6-8,195,Forward,
+696,202376,Notre Dame,6-7,245,Forward,52
+697,358,Memphis,,,,3
+698,896,Texas-El Paso,,,,14
+699,203501,Michigan,6-6,205,Guard,24
+700,201935,Arizona State,6-5,220,Guard,3
+701,203090,St. John's (NY),6-9,220,Forward,15
+702,157,Illinois,6-4,206,Guard,11
+703,202712,Richmond,,,,32
+704,166,Miami (OH),6-6,215,Guard,8
+705,1723,Georgia Tech,6-7,230,Forward,15
+706,1626149,Louisville,6-8,240,Forward,32
+707,202725,Kentucky,6-10,275,Forward-Center,45
+708,2492,Auburn,6-5,200,Guard,Undrafted
+709,1733,St. Patrick's HS (NJ),6-9,245,Forward,25
+710,2454,Wingate,6-4,190,Guard,Undrafted
+711,970,Georgetown,6-9,235,Forward-Center,30
+712,2734,Wisconsin,6-3,185,Guard,5
+713,203548,Gonzaga,,,,Undrafted
+714,203914,Michigan State,6-4,210,Guard,19
+715,203925,Virginia,6-6,219,Guard-Forward,33
+716,446,Long Beach State,,,,28
+717,202412,Michigan,6-5,185,Guard,Undrafted
+718,200839,Rice,,,,Undrafted
+719,202227,Oklahoma State,6-4,190,Guard,Undrafted
+720,202699,Tennessee,6-9,235,Forward,19
+721,1626151,Kentucky,,,,Undrafted
+722,1626150,Kentucky,6-6,213,Guard,44
+723,2758,Colorado,7-0,280,Center,29
+724,2078,Syracuse,,,,49
+725,176,Pfeiffer,6-11,250,Forward-Center,Undrafted
+726,2051,Florida,,,,22
+727,2617,Florida,6-8,235,Forward,Undrafted
+728,2239,Austin Peay,6-5,227,Forward-Guard,29
+729,2213,Indiana,6-9,242,Forward,16
+730,201150,Washington,7-1,245,Forward-Center,10
+731,765,Bradley,6-3,200,Guard,6
+732,1038,Long Beach State,6-7,205,Forward,Undrafted
+733,1138,Xavier,,,,Undrafted
+734,101236,Kentucky,,,,Undrafted
+735,2553,Georgia,6-8,228,Forward,10
+736,202330,Butler,6-8,226,Forward,9
+737,202351,Marquette,,,,30
+738,2217,North Carolina,7-0,263,Center,20
+739,101129,Illinois,,,,24
+740,1049,Australia,,,,Undrafted
+741,673,Indiana,6-9,240,Forward-Center,16
+742,1538,Memphis,6-7,225,Forward,44
+743,201945,Duke,6-5,215,Guard,12
+744,1764,UCLA,6-8,233,Forward,56
+745,971,Washington State,,,,31
+746,202333,Kansas,,,,12
+747,203089,North Carolina,6-11,229,Forward-Center,14
+748,1667,Kansas State,,,,44
+749,1627823,,6-9,230,Forward,15
+750,1626195,Spain,6-11,240,Center,35
+751,1914,Fresno State,6-2,190,Guard,33
+752,61,Houston,,,,30
+753,200835,Argentina,6-9,225,Forward,Undrafted
+754,1626209,Croatia,6-8,218,Guard-Forward,5
+755,201579,Georgetown,7-2,270,Center,17
+756,201581,North Carolina State,6-9,242,Center-Forward,19
+757,1627741,Oklahoma,6-4,214,Guard,6
+758,202809,Colorado,,,,Undrafted
+759,925,Michigan,,,,54
+760,2403,"Sao Carlos, Brazil",6-11,250,Center-Forward,7
+761,201588,Indiana Purdue-Indianapolis,6-3,188,Guard,26
+762,255,Duke,6-8,225,Forward,3
+763,201941,Arizona,6-10,240,Forward-Center,8
+764,203524,Arizona,6-7,225,Forward,23
+765,201631,Arkansas,,,,Undrafted
+766,238,Xavier,,,,11
+767,1626199,Villanova,6-6,205,Guard-Forward,38
+768,2550,Kansas,6-4,190,Guard,7
+769,200823,Miami (FL),,,,Undrafted
+770,202359,New Mexico,,,,37
+771,101125,North Carolina State,,,,20
+772,697,Iowa State,6-5,210,Guard,52
+773,2450,San Diego State,,,,56
+774,201950,UCLA,6-4,205,Guard,17
+775,203200,Washington,6-6,185,Guard,Undrafted
+776,200797,UCLA,,,,50
+777,1626178,Arizona,6-7,214,Guard-Forward,23
+778,1626158,Bowling Green,6-10,245,Forward,37
+779,1532,Tulane,6-9,254,Forward-Guard,38
+780,202715,UCLA,,,,35
+781,1967,Arkansas,6-8,222,Forward,Undrafted
+782,203918,Duke,6-8,206,Guard,23
+783,203816,Tennessee,6-7,204,Guard,Undrafted
+784,201143,Florida,6-10,245,Center-Forward,3
+785,204,Iowa State,6-4,190,Guard,46
+786,202862,North Carolina State,,,,Undrafted
+787,109,Alabama,6-10,240,Forward-Center,11
+788,1627863,Texas A&M,,,,Undrafted
+789,2067,Arizona State,6-1,190,Guard,37
+790,275,Tennessee,,,,11
+791,2730,SW Atlanta Christian Academy (GA),6-11,265,Center,1
+792,2572,Wake Forest,,,,29
+793,436,Michigan,6-9,250,Forward,5
+794,1128,DePaul,,,,Undrafted
+795,201991,Tennessee-Martin,6-3,190,Guard,58
+796,1607,Southern Illinois,,,,Undrafted
+797,1626273,,,,,Undrafted
+798,203962,Stanford,6-7,230,Forward,29
+799,1572,Central Michigan,7-1,245,Center,Undrafted
+800,1716,Saint Louis,,,,8
+801,1965,Thomas More,,,,Undrafted
+802,203133,Purdue,6-9,219,Forward,58
+803,2415,Notre Dame,,,,19
+804,2743,Minnesota,6-9,235,Forward,14
+805,2599,Ohio,6-7,266,Forward,56
+806,201805,Michigan,6-11,240,Center-Forward,Undrafted
+807,283,Jackson State,,,,10
+808,201629,Ohio State,,,,Undrafted
+809,1626154,Georgia State,,,,28
+810,2212,DePaul,7-0,240,Center,15
+811,310,Duke,6-0,165,Guard,7
+812,201586,"Brazzaville, Rep. of Congo",6-10,235,Forward,24
+813,2738,Arizona,6-6,215,Guard-Forward,9
+814,980,"Kaunas, Lithuania",7-3,260,Center,20
+815,101148,Serbia,7-1,255,Center,43
+816,101141,"Eskisehir, Turkey",6-10,235,Forward,36
+817,204060,,6-8,226,Forward,Undrafted
+818,203996,,6-8,246,Forward,31
+819,1627742,Duke,6-9,190,Forward,2
+820,202681,Duke,6-3,193,Guard,1
+821,947,Georgetown,6-0,165,Guard,1
+822,2767,Texas,,,,37
+823,101127,Georgia Tech,,,,22
+824,1517,Minnesota,6-1,185,Guard,23
+825,202132,Cleveland State,6-3,190,Guard,Undrafted
+826,201616,Kansas,6-9,253,Forward,52
+827,1627743,Notre Dame,6-1,201,Guard,45
+828,1114,Georgetown,6-6,225,Guard,Undrafted
+829,1983,Detroit Mercy,6-5,204,Guard,Undrafted
+830,754,Ohio State,6-6,220,Forward-Guard,4
+831,2739,Oregon,,,,10
+832,1531,Temple,6-10,253,Forward,37
+833,349,St. John's (NY),6-3,195,Guard,18
+834,203510,Baylor,,,,42
+835,1872,Florida State,,,,
+836,202704,Boston College,6-3,208,Guard,24
+837,1536,Butler Community College,,,,42
+838,2418,Stanford,6-6,215,Guard,22
+839,1734,Minnesota,,,,26
+840,203108,Florida State,6-10,235,Center,33
+841,202345,Texas,6-7,225,Forward,24
+842,1080,St. Mary's (TX),,,,Undrafted
+843,1744,Florida A&M,7-1,285,Center,36
+844,2544,St. Vincent-St. Mary HS (OH),6-8,250,Forward,1
+845,2229,Duquesne,6-2,188,Guard,Undrafted
+846,1906,Miami (FL),6-7,214,Forward,25
+847,1712,North Carolina,,,,4
+848,1942,Clemson,6-9,269,Forward,Undrafted
+849,2060,"Belgrade, Serbia",6-7,224,Guard,30
+850,101180,Maryland,,,,Undrafted
+851,201605,Midland,6-10,280,Forward,41
+852,2423,Fresno State,6-8,230,Forward,27
+853,201785,Robert Morris (IL),6-5,210,Guard-Forward,Undrafted
+854,2744,Prentiss HS (MS),6-10,289,Center,15
+855,203928,Baylor,,,,60
+856,200971,Arkansas,6-5,195,Guard,Undrafted
+857,2210,Arizona,6-7,233,Forward,13
+858,2407,Indiana,6-11,240,Forward,11
+859,202724,Hofstra,6-3,215,Guard,44
+860,2798,William Paterson,6-1,180,Guard,Undrafted
+861,203098,Vanderbilt,,,,23
+862,201943,Oak Hill Academy (VA),6-1,170,Guard,10
+863,1137,Ohio State,,,,Undrafted
+864,201973,"Kinna, Sweden",6-10,231,Forward,39
+865,203511,Arizona,6-10,232,Forward,40
+866,200817,Portland,5-11,175,Guard,Undrafted
+867,2639,Utah,,,,Undrafted
+868,200792,Florida State,6-9,240,Forward,45
+869,101161,Westchester HS (Los Angeles),6-9,240,Forward,56
+870,1533,College of Charleston,6-3,195,Guard,39
+871,202356,Nevada,6-3,195,Guard,34
+872,422,Southern,5-11,185,Guard,Undrafted
+873,1627744,North Carolina,6-10,230,Forward,25
+874,201291,Alabama-Birmingham,,,,Undrafted
+875,202419,Louisiana State,6-11,210,Forward,Undrafted
+876,203187,Dayton,6-6,206,Forward,Undrafted
+877,1746,North Carolina-Charlotte,,,,38
+878,2035,Cincinnati,6-9,210,Forward-Guard,6
+879,698,Illinois,,,,29
+880,911,New Orleans,6-11,245,Center,23
+881,201274,Cal State-San Bernardino,6-8,255,Forward,Undrafted
+882,202707,Purdue,6-10,221,Forward,27
+883,201949,Wake Forest,6-9,250,Forward,16
+884,2207,Arkansas,6-7,240,Forward-Guard,10
+885,2256,Ohio State,6-10,240,Center-Forward,48
+886,134,California,6-1,190,Guard,7
+887,913,Nevada-Las Vegas,6-7,235,Forward,1
+888,2669,Tulane,6-8,205,Forward,Undrafted
+889,203910,Arizona,6-3,202,Guard,42
+890,203111,California-Santa Barbara,,,,36
+891,1626169,Arizona,6-7,245,Forward,8
+892,201234,Jackson State,,,,Undrafted
+893,204020,Fresno State,6-4,186,Guard,Undrafted
+894,202325,Syracuse,6-7,215,Forward-Guard,4
+895,203130,Marquette,,,,55
+896,203999,,6-10,250,Center-Forward,41
+897,2264,Georgia Tech,6-11,265,Center,56
+898,200784,Washington,6-7,215,Forward,37
+899,279,Albany State (GA),6-9,215,Forward-Center,165
+900,1869,Long Island-Brooklyn,6-3,180,Guard,Undrafted
+901,2563,Duke,6-6,225,Guard-Forward,20
+902,1627745,Vanderbilt,7-0,245,Forward-Center,30
+903,1800,Houston,6-3,195,Guard,Undrafted
+904,203199,Miami (FL),6-8,221,Forward,Undrafted
+905,202346,South Florida,,,,25
+906,963,Mississippi State,6-8,220,Forward,21
+907,101204,Saint Joseph's,6-11,248,Forward-Center,Undrafted
+908,224,Temple,6-6,200,Guard-Forward,10
+909,2410,Oregon,6-2,225,Guard,14
+910,2592,Miami (FL),6-8,218,Guard-Forward,49
+911,1908,Georgia,6-8,230,Forward,27
+912,203158,West Virginia,6-8,260,Forward,Undrafted
+913,2891,Central Florida,6-6,215,Guard,82
+914,461,Murray State,6-8,265,Forward,41
+915,200780,South Florida,,,,33
+916,203093,Kentucky,,,,18
+917,1626145,Duke,6-2,195,Guard,24
+918,203103,Baylor,6-11,235,Forward,28
+919,1627884,Nevada-Las Vegas,6-7,190,Forward,Undrafted
+920,1817,Kansas,,,,42
+921,201599,Texas A&M,6-11,265,Center,35
+922,202366,Tulsa,7-0,253,Center,44
+923,893,North Carolina,6-6,216,Guard,3
+924,674,New Mexico State,,,,Undrafted
+925,202709,Texas,6-3,190,Guard,29
+926,2123,Saint Rose,,,,Undrafted
+927,203126,Syracuse,6-7,210,Forward,51
+928,2549,Central Michigan,7-0,265,Center,6
+929,1626163,Wisconsin,7-0,240,Center,9
+930,202683,Kentucky,6-11,245,Center,3
+931,2574,UCLA,,,,31
+932,203508,Russia,6-7,208,Guard-Forward,19
+933,201207,Boise State,6-5,215,Guard,Undrafted
+934,2435,Croatia,7-1,260,Center,40
+935,201619,Kansas,6-11,260,Center,56
+936,228,Stanford,6-9,230,Forward,10
+937,203527,Duke,6-11,230,Forward,48
+938,431,Trinity Valley Community College,6-10,280,Forward,17
+939,1118,Notre Dame,,,,124
+940,202810,St. John's (NY),6-5,214,Guard-Forward,Undrafted
+941,1801,East Carolina,6-11,245,Center,Undrafted
+942,70,Arizona,6-1,180,Guard,50
+943,760,Longwood,,,,46
+944,1930,Massachusetts,,,,49
+945,2751,Russia,,,,22
+946,467,California,6-4,210,Guard,2
+947,203077,Kentucky,6-7,232,Forward,2
+948,203930,Cincinnati,6-4,219,Guard,Undrafted
+949,12,Wake Forest,,,,45
+950,701,Western Carolina,6-1,185,Guard,37
+951,1562,Nicholls State,,,,Undrafted
+952,728,Michigan,6-5,210,Guard,35
+953,351,Oklahoma,6-11,250,Forward-Center,6
+954,200814,South Carolina,6-6,189,Guard,Undrafted
+955,1905,"St. Petersburg, Russia",,,,24
+956,203945,New Mexico,,,,Undrafted
+957,954,Villanova,,,,8
+958,170,Arkansas,,,,6
+959,101132,Missouri,6-8,234,Forward,27
+960,2688,Pittsburgh,,,,Undrafted
+961,202688,Kentucky,6-3,195,Guard,8
+962,1510,Stanford,5-10,166,Guard,16
+963,1861,Dayton,,,,31
+964,969,Connecticut,7-0,235,Center,29
+965,101117,Russia,6-9,203,Forward,12
+966,2594,Creighton,6-7,212,Guard,51
+967,201585,Ohio State,7-0,265,Center,23
+968,203139,Ukraine,,,,Undrafted
+969,2420,"Kraljevo, Serbia",7-0,240,Center,24
+970,1474,Montana,,,,28
+971,389,Croatia,6-11,235,Forward,29
+972,201633,Notre Dame,6-9,232,Forward,Undrafted
+973,2825,Turkey,,,,Undrafted
+974,203136,,7-0,260,Center,52
+975,1627851,,6-9,215,Forward,Undrafted
+976,1711,Kansas,6-11,240,Center-Forward,3
+977,1601,Wake Forest,,,,Undrafted
+978,203897,UCLA,6-5,185,Guard,13
+979,1627746,Kentucky,6-11,225,Forward-Center,28
+980,363,Duke,6-11,245,Forward-Center,3
+981,201802,Houston,6-2,190,Guard,Undrafted
+982,203117,Kentucky,6-4,200,Guard,42
+983,203087,Connecticut,6-5,185,Guard,12
+984,2573,Poland,6-11,275,Forward,30
+985,2253,California,,,,44
+986,201171,Purdue,6-9,248,Forward,31
+987,202068,Wisconsin,,,,Undrafted
+988,457,Arkansas,6-11,275,Center,28
+989,226,Duke,,,,29
+990,2591,,,,,48
+991,1892,Duke,,,,11
+992,101247,Kansas,,,,Undrafted
+993,2061,Vanderbilt,,,,31
+994,1627879,,,,,Undrafted
+995,203499,Miami (FL),5-11,175,Guard,18
+996,201186,Massachusetts,6-8,215,Forward,46
+997,968,Central State (OH),7-4,325,Center,28
+998,203530,,6-11,220,Center-Forward,55
+999,201151,Texas A&M,6-3,202,Guard,11
+1000,202371,Georgia Tech,6-9,234,Forward,46
+1001,1535,Villanova,6-11,240,Center,41
+1002,201951,North Carolina,5-11,195,Guard,18
+1003,1627774,Maryland,6-9,210,Forward,47
+1004,1627747,Michigan,6-7,203,Guard-Forward,20
+1005,287,Wyoming,6-11,265,Center,17
+1006,203495,Providence,6-7,195,Guard,43
+1007,201584,Western Kentucky,6-5,200,Guard,22
+1008,101135,Florida,6-9,245,Forward-Center,30
+1009,202723,UCLA,,,,43
+1010,100,La Salle,,,,Undrafted
+1011,203458,Maryland,7-1,260,Center,5
+1012,702,Minnesota,6-4,215,Guard,46
+1013,202695,San Diego State,6-7,230,Forward,15
+1014,203086,Illinois,7-1,255,Forward-Center,11
+1015,202727,Georgia,6-4,205,Guard,47
+1016,202720,Wisconsin,6-10,228,Forward,40
+1017,729,Seward County Community College,6-6,225,Forward,50
+1018,1900,Minnesota,,,,19
+1019,1740,Alief Elsik HS (TX),6-10,235,Forward,32
+1020,202732,Kentucky,6-6,209,Guard,53
+1021,203081,Weber State,6-3,195,Guard,6
+1022,202391,Harvard,6-3,200,Guard,Undrafted
+1023,175,Arizona State,7-0,245,Center-Forward,21
+1024,988,Louisiana State,6-4,209,Guard,42
+1025,2733,Peoria Central HS (IL),6-7,192,Guard,4
+1026,1024,Grand Canyon,6-11,285,Center,Undrafted
+1027,38,Iowa,6-11,230,Forward-Center,45
+1028,1609,Cincinnati,6-9,250,Forward,Undrafted
+1029,3,Eastern Michigan,,,,33
+1030,1381,Detroit Mercy,6-5,200,Guard,29
+1031,1627848,Louisiana-Lafayette,6-9,255,Forward,Undrafted
+1032,26,New Mexico,,,,7
+1033,1626172,UCLA,6-9,220,Forward,30
+1034,201572,Stanford,7-0,268,Center,10
+1035,1732,St. John's (NY),6-5,195,Guard-Forward,24
+1036,2221,Spain,,,,24
+1037,201577,Stanford,7-0,255,Center,15
+1038,201567,UCLA,6-10,251,Forward,5
+1039,200768,Villanova,6-0,205,Guard,24
+1040,203564,Michigan State,,,,Undrafted
+1041,101249,Oklahoma State,,,,Undrafted
+1042,1731,Nebraska,6-0,175,Guard,23
+1043,1627789,,6-6,200,Guard-Forward,24
+1044,1626168,Kentucky,6-10,234,Forward,12
+1045,248,North Carolina,6-8,235,Forward,12
+1046,1928,Washington,7-0,280,Center,47
+1047,931,UCLA,,,,19
+1048,203159,Iona,6-1,205,Guard,Undrafted
+1049,101178,Lithuania,6-4,214,Guard,Undrafted
+1050,694,Houston,,,,Undrafted
+1051,202714,Butler,6-3,203,Guard,34
+1052,202731,Florida,6-10,227,Forward,52
+1053,1855,Temple,,,,8
+1054,2432,Fresno State,6-4,190,Guard,37
+1055,1666,UCLA,6-4,200,Guard,Undrafted
+1056,2058,Stanford,6-9,255,Forward,29
+1057,1894,Duke,6-6,225,Forward,13
+1058,2048,Kentucky,6-11,265,Center,19
+1059,101133,"Rouen, France",6-11,262,Center,28
+1060,328,Hampton,6-10,260,Forward,35
+1061,105,Central Michigan,6-6,222,Guard-Forward,14
+1062,200970,Fresno State,,,,Undrafted
+1063,1627748,,7-1,223,Forward-Center,10
+1064,252,Louisiana Tech,6-9,259,Forward,13
+1065,1074,Pennsylvania,,,,Undrafted
+1066,330,Kansas,,,,1
+1067,316,Washington,6-11,245,Center,40
+1068,203906,Iowa,6-6,200,Forward,56
+1069,950,Georgia Tech,6-2,205,Guard,4
+1070,36,Lithuania,,,,127
+1071,1890,Nevada-Las Vegas,6-7,228,Guard-Forward,9
+1072,1626246,,7-3,290,Center,Undrafted
+1073,200806,Bosnia,6-10,225,Forward,59
+1074,1752,California,,,,44
+1075,681,Connecticut,6-7,230,Forward,39
+1076,923,Connecticut,6-9,245,Forward,4
+1077,203088,North Carolina,6-4,200,Guard,13
+1078,101185,Oakland,6-7,190,Guard-Forward,Undrafted
+1079,201858,Kansas State,6-7,220,Forward,Undrafted
+1080,733,Purdue,,,,57
+1081,239,UCLA,,,,Undrafted
+1082,1626185,Louisiana State,6-10,239,Forward,25
+1083,2030,Cincinnati,,,,1
+1084,2755,Western Carolina,6-7,199,Guard,26
+1085,469,Kentucky,6-8,247,Forward,4
+1086,193,Tennessee State,6-8,255,Forward,53
+1087,2046,Oklahoma State,,,,17
+1088,2427,Virginia,,,,30
+1089,763,Maryland,6-9,250,Forward-Center,43
+1090,202083,Marquette,6-5,220,Guard-Forward,Undrafted
+1091,101131,Cincinnati,6-7,260,Forward,26
+1092,137,Florida,6-4,190,Guard,47
+1093,101118,North Carolina,6-9,266,Center-Forward,13
+1094,195,Arkansas,,,,23
+1095,201953,Virginia Commonwealth,,,,20
+1096,201564,Southern California,6-5,210,Guard,3
+1097,201601,UCLA,6-8,230,Forward,37
+1098,2788,"Kinshasa, DRC",7-0,255,Center,Undrafted
+1099,203949,North Carolina,6-9,240,Forward,Undrafted
+1100,203492,Detroit Mercy,,,,36
+1101,737,Morehead State,,,,32
+1102,101119,North Carolina,6-4,215,Guard,14
+1103,1820,Southern Mississippi,6-7,200,Guard-Forward,Undrafted
+1104,962,Kentucky,6-10,245,Forward,19
+1105,1043,Marquette,6-11,235,Center,49
+1106,1627775,Nevada-Las Vegas,6-7,185,Guard,38
+1107,1627815,Miami (Fla.),6-6,200,Guard-Forward,Undrafted
+1108,2082,Northern Arizona,7-0,270,Center,53
+1109,45,Florida State,6-8,230,Forward,7
+1110,203468,Lehigh,6-3,190,Guard,10
+1111,204456,Arizona,6-2,200,Guard,Undrafted
+1112,1741,UCLA,,,,33
+1113,200840,Maryland,,,,Undrafted
+1114,1626191,Syracuse,6-9,215,Forward,29
+1115,1365,Wichita State,,,,4
+1116,203909,Clemson,6-6,205,Guard-Forward,32
+1117,203926,Creighton,6-8,219,Forward,11
+1118,1075,New Orleans,,,,55
+1119,686,Alabama,6-9,245,Forward-Center,2
+1120,200829,Oklahoma State,,,,Undrafted
+1121,203956,Michigan,6-10,255,Forward,21
+1122,201580,Nevada,7-0,270,Center,18
+1123,1503,Mount Zion Christian Academy (NC),6-8,225,Guard-Forward,9
+1124,203585,Kansas State,6-4,205,Guard,Undrafted
+1125,201187,Fresno State,,,,47
+1126,29,Marquette,,,,32
+1127,976,North Carolina,,,,37
+1128,365,Alabama,6-10,241,Forward,9
+1129,243,Temple,6-5,209,Guard,17
+1130,203463,Kansas,6-5,195,Guard,7
+1131,2693,Bowling Green,6-2,190,Guard,Undrafted
+1132,1728,Duke,,,,20
+1133,203,North Carolina State,6-5,210,Guard-Forward,30
+1134,202077,Marquette,6-3,200,Guard,Undrafted
+1135,2101,DePaul,6-4,210,Guard,Undrafted
+1136,203895,Tennessee,,,,58
+1137,201177,Duke,6-10,240,Forward,37
+1138,2098,Ukraine,6-10,253,Forward,Undrafted
+1139,201975,Kentucky,6-4,210,Guard,41
+1140,1626257,,7-2,245,Center,Undrafted
+1141,203539,Wichita State,,,,Undrafted
+1142,203097,Syracuse,7-0,255,Center,22
+1143,200822,George Washington,,,,Undrafted
+1144,1500,Kentucky,,,,6
+1145,684,Iowa State,6-10,260,Center-Forward,24
+1146,1626175,Louisiana State,6-8,235,Forward,33
+1147,203114,Texas A&M,6-8,234,Guard-Forward,39
+1148,2036,Texas,7-0,265,Center,7
+1149,101223,Kansas,,,,Undrafted
+1150,101139,Skyline HS (TX),6-6,225,Forward-Guard,34
+1151,2032,East St. Louis HS (IL),6-9,235,Forward,3
+1152,1527,Slovenia,,,,33
+1153,2545,"Novi Sad, Serbia",,,,2
+1154,1889,Utah,6-3,200,Guard,8
+1155,292,Michigan State,,,,39
+1156,1802,Purdue,7-0,261,Center-Forward,Undrafted
+1157,203121,Kentucky,6-8,225,Forward,46
+1158,2034,Florida,6-8,218,Guard-Forward,5
+1159,932,Arkansas,6-9,315,Center,22
+1160,203113,Baylor,6-9,210,Forward,38
+1161,397,UCLA,6-7,195,Guard,11
+1162,168,Arizona,6-7,220,Forward,22
+1163,201988,Saint Mary's (CA),6-0,185,Guard,55
+1164,371,Michigan,,,,16
+1165,202407,Alabama-Birmingham,6-7,215,Guard-Forward,Undrafted
+1166,200794,Louisiana Tech,6-8,246,Forward,47
+1167,65,Louisville,,,,25
+1168,202703,,6-10,238,Forward,23
+1169,1954,George Mason,,,,Undrafted
+1170,417,Mercer,6-7,215,Forward,54
+1171,203183,Alabama,,,,Undrafted
+1172,203502,North Texas,6-8,235,Forward,37
+1173,1749,Rhode Island,6-4,215,Guard,41
+1174,211,Pittsburgh,,,,18
+1175,1737,Kentucky,6-10,250,Center,29
+1176,2040,UCLA,,,,11
+1177,2752,Russia,,,,23
+1178,202328,Georgetown,6-11,265,Center-Forward,7
+1179,1626242,Westchester CC NY,6-7,200,Guard,Undrafted
+1180,376,North Carolina,7-0,270,Center,9
+1181,200081,Meridian Community College,6-8,205,Forward,Undrafted
+1182,202734,Purdue,6-4,191,Guard,55
+1183,1630,Nebraska,7-0,225,Forward-Center,Undrafted
+1184,929,Tulsa,,,,Undrafted
+1185,203961,Oregon State,6-10,238,Forward-Center,Undrafted
+1186,356,Auburn,6-8,228,Forward,4
+1187,202721,Michigan,6-4,195,Guard,41
+1188,202694,Kansas,6-9,235,Forward,14
+1189,202693,Kansas,6-10,245,Forward,13
+1190,201043,Kentucky,6-11,275,Center,Undrafted
+1191,2242,Maryland,,,,33
+1192,200747,Gonzaga,6-8,205,Forward,3
+1193,201627,Georgia Tech,6-5,210,Guard,Undrafted
+1194,734,Syracuse,,,,36
+1195,202700,"Kaunas, Lithuania",7-0,222,Forward-Center,20
+1196,2069,Utah,6-11,247,Center-Forward,40
+1197,203102,Mississippi State,6-10,240,Forward,27
+1198,297,Georgetown,6-10,261,Center,2
+1199,202389,"St. Petersburg, Russia",7-1,275,Center,Undrafted
+1200,1626144,,6-5,200,Guard,7
+1201,203498,UCLA,6-6,223,Forward,14
+1202,201957,Ohio State,7-0,275,Center,24
+1203,904,St. John's (NY),,,,7
+1204,204098,Rhode Island,6-3,180,Guard,Undrafted
+1205,785,Providence,,,,21
+1206,49,Romania,7-7,303,Center,30
+1207,203513,Florida,6-10,230,Forward,49
+1208,203122,Tennessee Tech,6-6,185,Guard,47
+1209,2211,Notre Dame,,,,14
+1210,1627749,Washington,6-5,170,Guard,29
+1211,2436,Shaw,6-3,200,Guard,41
+1212,1627750,Kentucky,6-4,207,Guard,7
+1213,441,California,6-7,235,Forward,7
+1214,145,UCLA,,,,18
+1215,203315,Wichita State,,,,Undrafted
+1216,203488,Bucknell,6-11,240,Forward-Center,44
+1217,87,Georgetown,7-2,260,Center,4
+1218,982,Kalev Talinn (Estonia),6-9,235,Forward,25
+1219,939,Arkansas-Little Rock,,,,120
+1220,1823,North Carolina,6-8,245,Forward,Undrafted
+1221,2055,Auburn,7-0,255,Center,26
+1222,2411,Italy,6-9,221,Forward,15
+1223,1924,Texas Christian,,,,43
+1224,2059,Oklahoma,6-8,235,Forward,38
+1225,1626204,Wyoming,6-9,230,Forward,27
+1226,203894,Connecticut,6-1,175,Guard,24
+1227,959,Santa Clara,6-3,178,Guard,15
+1228,2434,Spain,,,,39
+1229,202380,Rutgers,,,,56
+1230,101238,,,,,Undrafted
+1231,1626254,Ohio U.,6-9,200,Forward,Undrafted
+1232,202390,Towson,,,,Undrafted
+1233,203517,Serbia,6-3,192,Guard,30
+1234,201634,Duke,6-4,200,Guard,Undrafted
+1235,2749,Saint Joseph's,6-0,190,Guard,20
+1236,1129,Weber State,,,,Undrafted
+1237,1838,Nevada-Las Vegas,6-6,245,Forward-Guard,Undrafted
+1238,1725,"Ljubljana, Slovenia",7-0,255,Center,17
+1239,203526,,6-1,179,Guard,47
+1240,1096,Georgia Tech,6-10,245,Center,
+1241,1956,Miami (OH),6-7,220,Guard-Forward,Undrafted
+1242,271,Richmond,6-7,210,Forward,29
+1243,1627777,Iowa State,6-8,230,Forward,50
+1244,201193,Syracuse,,,,53
+1245,203094,St. Bonaventure,6-9,250,Forward,19
+1246,1093,Northwestern Oklahoma,,,,34
+1247,201149,Florida,6-11,230,Center,9
+1248,2804,"Santa Fe, Argentina",,,,Undrafted
+1249,200786,North Carolina,6-6,230,Forward-Guard,39
+1250,203457,Kentucky,6-11,228,Forward-Center,6
+1251,203512,,7-0,220,Center,16
+1252,999,Wisconsin-Green Bay,,,,53
+1253,80,Illinois,,,,19
+1254,983,West Florida,6-1,185,Guard,33
+1255,200779,Marquette,,,,32
+1256,1717,"Wurzburg, Germany",7-0,245,Forward,9
+1257,203263,California-Santa Barbara,,,,Undrafted
+1258,203994,,7-0,280,Center,16
+1259,1628021,Cal Poly-S.L.O.,6-4,209,Guard,Undrafted
+1260,1525,UCLA,6-5,209,Guard,31
+1261,709,UCLA,,,,9
+1262,1626266,San Diego State,,,,Undrafted
+1263,200753,Bradley,7-0,250,Center,9
+1264,203948,Louisiana State,6-9,257,Forward-Center,36
+1265,979,Eau Claire HS (SC),6-11,255,Center-Forward,17
+1266,406,Louisiana State,7-1,325,Center,1
+1267,203124,Norfolk State,6-10,250,Center-Forward,49
+1268,891,Virginia Union,6-9,245,Forward,9
+1269,101177,"Las Varillas, Argentina",,,,Undrafted
+1270,1627849,Villanova,6-11,245,Forward-Center,Undrafted
+1271,201141,Ohio State,7-0,273,Center,1
+1272,1885,Rhode Island,6-10,230,Forward,4
+1273,203317,Germany,6-11,255,Center-Forward,Undrafted
+1274,2731,Connecticut,6-10,255,Center,2
+1275,1626143,Duke,6-11,275,Center,3
+1276,2246,"Yalova, Turkey",,,,37
+1277,203506,Indiana,6-4,210,Guard,2
+1278,165,Houston,7-0,255,Center,1
+1279,1680,Georgia Tech,,,,32
+1280,2352,Iowa,5-11,175,Guard,Undrafted
+1281,1429,Purdue,,,,39
+1282,1563,Connecticut,6-2,195,Guard,Undrafted
+1283,1709,Pacific,7-0,270,Center,1
+1284,203482,Gonzaga,7-0,238,Center-Forward,13
+1285,202620,Syracuse,,,,Undrafted
+1286,1627778,Louisville,6-10,245,Forward,37
+1287,202350,Kentucky,,,,29
+1288,731,Kansas,,,,28
+1289,1626162,Kansas,6-7,205,Forward,15
+1290,448,Houston,,,,Undrafted
+1291,2566,Starkville HS (MS),6-9,207,Forward,23
+1292,77,La Salle,6-3,190,Guard,40
+1293,101261,Houston,6-4,200,Guard,Undrafted
+1294,182,Syracuse,6-9,225,Forward-Guard,3
+1295,2442,Texas,6-7,245,Forward,47
+1296,202082,Oral Roberts,,,,Undrafted
+1297,1077,Arizona,6-9,224,Forward,Undrafted
+1298,2071,Nigeria,,,,42
+1299,2585,"Tbilisi, Georgia",6-11,275,Center,42
+1300,123,Southern California,,,,Undrafted
+1301,1909,Kentucky,,,,28
+1302,1960,Colorado State,6-4,210,Guard,Undrafted
+1303,1950,Lebanon Valley,,,,Undrafted
+1304,1627834,,7-1,240,Center,13
+1305,203123,,,,,48
+1306,2457,Arkansas,,,,Undrafted
+1307,202951,Gonzaga,,,,Undrafted
+1308,305,Centenary (LA),7-1,244,Center,8
+1309,1515,Bradley,6-6,210,Guard,21
+1310,203953,Duke,6-8,250,Forward,2
+1311,2470,Fordham,6-4,190,Guard,Undrafted
+1312,2225,"Paris, France",6-2,185,Guard,28
+1313,685,Duke,,,,12
+1314,202718,Florida,6-10,230,Forward,38
+1315,1754,Indiana,,,,46
+1316,203934,Pittsburgh,,,,48
+1317,202335,Kentucky,6-9,235,Forward,14
+1318,1739,Cincinnati,,,,31
+1319,101108,Wake Forest,6-0,175,Guard,4
+1320,2562,"Bar, Montenegro",6-7,235,Guard-Forward,19
+1321,203940,Michigan State,6-10,237,Forward,15
+1322,1626166,Murray State,6-3,185,Guard,14
+1323,203901,Louisiana-Lafayette,6-4,185,Guard,10
+1324,56,Oregon State,6-4,190,Guard,2
+1325,1627780,Oregon State,6-3,190,Guard,Undrafted
+1326,200762,"Donetsk, Ukraine",7-0,234,Forward-Center,18
+1327,324,Missouri,6-4,208,Guard,15
+1328,201593,Montenegro,6-11,307,Center,31
+1329,2130,Master's,,,,Undrafted
+1330,2667,Utah State,,,,Undrafted
+1331,2632,Wisconsin,,,,Undrafted
+1332,781,Vanderbilt,7-0,240,Center,11
+1333,2570,Clifton J. Ozen HS (TX),6-10,270,Center,27
+1334,64,North Carolina,6-9,260,Center-Forward,4
+1335,200785,Serbia,7-2,240,Center,38
+1336,386,Memphis,,,,37
+1337,456,Auburn,6-8,241,Forward,4
+1338,445,Auburn,6-6,200,Guard-Forward,23
+1339,2050,Michigan State,,,,21
+1340,101130,"Paris, France",7-0,247,Center,25
+1341,184,Southern,,,,45
+1342,15,Nebraska,6-7,215,Guard-Forward,15
+1343,1718,Kansas,6-7,235,Forward,10
+1344,894,Rice,6-4,215,Guard,18
+1345,2554,"Les Abymes, Guadeloupe",6-6,215,Forward,11
+1346,291,Villanova,6-9,240,Forward,10
+1347,200838,Nevada,,,,Undrafted
+1348,937,Central Arkansas,6-8,228,Forward-Guard,5
+1349,202354,Texas,,,,32
+1350,2565,Croatia,,,,22
+1351,202353,,7-3,256,Center,31
+1352,1627850,Duke,7-0,250,Center,Undrafted
+1353,203486,Duke,6-11,255,Center-Forward,22
+1354,203101,Duke,6-11,249,Center,26
+1355,2750,Russia,,,,21
+1356,1627751,Utah,7-0,230,Center-Forward,9
+1357,1513,Kansas,6-11,278,Center-Forward,19
+1358,178,Virginia,,,,8
+1359,202347,Washington,6-7,225,Guard-Forward,26
+1360,998,Kentucky,6-10,235,Center-Forward,52
+1361,2084,Auburn,6-7,218,Forward,55
+1362,345,Wisconsin-Stevens Point,6-3,205,Guard,24
+1363,203490,Georgetown,6-8,198,Forward,3
+1364,1626171,Arkansas,6-11,246,Forward,22
+1365,204001,,7-3,240,Forward-Center,4
+1366,1899,Xavier,6-8,217,Forward,18
+1367,2068,St. John's (NY),6-5,215,Guard-Forward,39
+1368,958,Wright State,6-10,285,Center-Forward,12
+1369,200796,California,6-8,240,Forward,49
+1370,203939,Stanford,6-11,240,Forward-Center,45
+1371,2694,North Carolina State,6-9,240,Forward,Undrafted
+1372,2867,Texas Tech,6-7,215,Forward,Undrafted
+1373,1626181,UCLA,6-4,215,Guard,46
+1374,101232,Illinois,,,,Undrafted
+1375,1627816,Kentucky,6-7,235,Forward,Undrafted
+1376,203515,Missouri,,,,Undrafted
+1377,201985,Connecticut,,,,52
+1378,85,Oklahoma,6-1,185,Guard,32
+1379,899,Georgia Tech,6-0,180,Guard,25
+1380,101179,Utah Valley,6-2,190,Guard,Undrafted
+1381,203143,Argentina,6-3,185,Guard,Undrafted
+1382,1627752,Baylor,6-8,220,Forward,12
+1383,2419,Kentucky,6-9,212,Forward,23
+1384,1919,Maryland,,,,38
+1385,201172,Southern California,6-4,170,Guard,32
+1386,2038,Minnesota,7-1,245,Center,9
+1387,1627817,Louisiana State,6-6,190,Guard,Undrafted
+1388,200809,Notre Dame,6-2,175,Guard,Undrafted
+1389,129,Croatia,,,,40
+1390,2209,"Belgrade, Serbia",6-10,235,Forward,12
+1391,1893,Barton Community College,,,,12
+1392,203545,Serbia,,,,Undrafted
+1393,2080,Russia,6-2,184,Guard,51
+1394,2762,Puerto Rico,,,,32
+1395,1626184,Stanford,6-2,185,Guard,Undrafted
+1396,203944,Kentucky,6-9,250,Forward,7
+1397,201576,Louisiana State,6-11,225,Forward,14
+1398,101183,Duke,,,,Undrafted
+1399,2216,Michigan State,6-9,260,Forward,19
+1400,689,Wyoming,6-10,235,Center,18
+1401,202360,Syracuse,6-4,190,Guard,38
+1402,200810,Villanova,,,,Undrafted
+1403,1442,Yugoslavia,7-0,265,Center,54
+1404,695,Washington,,,,
+1405,2072,Ohio State,6-6,215,Guard,43
+1406,200755,Duke,6-4,190,Guard,11
+1407,2770,Mississippi,,,,40
+1408,203186,Saint Louis,6-11,245,Forward-Center,Undrafted
+1409,735,Oklahoma State,7-0,290,Center,6
+1410,234,Arizona,,,,12
+1411,690,Georgetown,6-8,250,Forward,58
+1412,462,North Carolina,,,,5
+1413,202385,Florida State,,,,57
+1414,2876,Iowa,6-11,255,Center,Undrafted
+1415,981,PAOK (Greece),6-11,250,Center,23
+1416,704,Michigan State,,,,8
+1417,1518,Southern California,,,,24
+1418,779,Michigan,,,,4
+1419,203318,Georgia Tech,,,,35
+1420,201181,Florida,6-9,256,Forward,41
+1421,2202,Michigan State,6-6,225,Guard,5
+1422,200978,Delta State,6-7,195,Guard-Forward,Undrafted
+1423,1626196,Tennessee,6-6,200,Guard,40
+1424,1627781,Syracuse,6-6,205,Guard,22
+1425,2369,Hofstra,6-5,200,Guard,Undrafted
+1426,71,UCLA,,,,10
+1427,2047,DePaul,6-6,228,Forward,18
+1428,782,Kansas State,6-5,220,Guard,5
+1429,375,Nevada-Las Vegas,,,,5
+1430,2557,Oregon,6-2,175,Guard,14
+1431,2541,France,,,,Undrafted
+1432,35,Michigan,7-0,245,Center,33
+1433,203085,Duke,6-4,200,Guard,10
+1434,203460,Colorado,6-7,210,Guard-Forward,26
+1435,101194,Florida,6-2,180,Guard,Undrafted
+1436,2121,Fresno State,,,,Undrafted
+1437,203148,Dayton,6-1,173,Guard,Undrafted
+1438,122,Brigham Young,,,,27
+1439,101160,Mississippi State,6-9,240,Forward,55
+1440,914,Louisiana State,,,,23
+1441,1926,Kansas,,,,45
+1442,2774,Michigan,6-6,210,Guard-Forward,45
+1443,997,Western Kentucky,6-5,200,Guard,51
+1444,361,Connecticut,6-10,245,Forward-Center,36
+1445,764,Navy,7-1,250,Center,1
+1446,1944,Central Oklahoma,6-9,210,Forward,Undrafted
+1447,299,Purdue,6-7,240,Forward,1
+1448,1554,Virginia,,,,
+1449,381,Alabama,,,,21
+1450,1683,Centenary (LA),6-3,180,Guard,Undrafted
+1451,101126,Washington,,,,21
+1452,716,Michigan,6-2,195,Guard,10
+1453,203080,Kansas,6-10,237,Forward,5
+1454,203922,Michigan,6-6,222,Guard-Forward,40
+1455,23,Southeastern Oklahoma State,,,,27
+1456,200771,"Tenerife, Spain",6-3,176,Guard,27
+1457,691,Massachusetts,6-7,220,Forward,30
+1458,435,Tennessee State,6-11,232,Forward-Center,11
+1459,915,Wake Forest,6-7,270,Forward,9
+1460,964,Alabama,,,,22
+1461,200765,Kentucky,6-1,186,Guard,21
+1462,399,Arizona,6-10,260,Center,30
+1463,201565,Memphis,6-3,190,Guard,1
+1464,147,Michigan,6-8,215,Guard-Forward,13
+1465,990,Drexel,6-7,255,Forward,44
+1466,2624,Southern Methodist,,,,Undrafted
+1467,203082,Washington,6-7,195,Forward-Guard,8
+1468,200750,Washington,6-6,211,Guard,6
+1469,140,Notre Dame,6-8,218,Forward,52
+1470,32,Louisville,,,,16
+1471,1626179,Louisville,6-2,190,Guard,16
+1472,201937,"El Masnou, Spain",6-4,190,Guard,5
+1473,2462,Iowa,6-9,270,Forward-Center,
+1474,204014,,6-10,228,Forward,Undrafted
+1475,1913,Tulsa,6-8,248,Forward-Center,32
+1476,201575,Kansas,6-6,225,Guard-Forward,13
+1477,2416,Missouri,,,,20
+1478,935,Long Beach State,,,,45
+1479,1626156,Ohio State,6-5,195,Guard,2
+1480,201041,Jacksonville State,6-0,170,Guard,78
+1481,717,Lithuania,7-3,292,Center,24
+1482,1627734,Gonzaga,6-11,240,Forward,11
+1483,203135,Gonzaga,7-0,270,Center,60
+1484,927,Georgia Tech,6-11,255,Center-Forward,11
+1485,2422,Miami (FL),,,,26
+1486,1089,North Carolina,,,,Undrafted
+1487,2066,Mali,6-10,240,Center,36
+1488,200798,Spain,,,,51
+1489,203960,St. John's (NY),6-9,207,Forward-Guard,Undrafted
+1490,2441,California,6-11,235,Forward-Center,46
+1491,202396,Louisville,,,,Undrafted
+1492,2143,Temple,6-4,195,Guard,Undrafted
+1493,202336,Virginia Commonwealth,,,,15
+1494,2684,Oklahoma State,,,,Undrafted
+1495,2091,Saint Vincent,7-1,256,Center,Undrafted
+1496,203967,,6-10,223,Forward,12
+1497,987,Texas Tech,6-7,225,Forward,41
+1498,2219,Southern Methodist,6-6,200,Guard,22
+1499,203107,,6-7,210,Guard-Forward,32
+1500,2261,Cincinnati,6-2,170,Guard,53
+1501,2453,Hawaii,6-6,225,Guard,Undrafted
+1502,2243,Southern California,6-9,235,Forward,34
+1503,2637,Oregon,,,,Undrafted
+1504,7,Syracuse,6-11,260,Center,13
+1505,88,Purdue,,,,39
+1506,101195,Georgia Tech,7-1,265,Center,Undrafted
+1507,368,Florida,7-2,285,Center,24
+1508,96,Washington,6-10,235,Forward,8
+1509,203471,Germany,6-1,172,Guard,17
+1510,2449,"Buenos Aires, Argentina",,,,55
+1511,1064,Rice,6-10,250,Forward-Center,Undrafted
+1512,2,Arizona State,6-4,205,Guard,4
+1513,192,Georgia Tech,6-8,229,Forward,4
+1514,1109,St. John's (NY),6-6,180,Forward,Undrafted
+1515,203118,Virginia,6-8,237,Forward,43
+1516,1035,St. John's (NY),,,,43
+1517,1578,Tulsa,,,,Undrafted
+1518,907,St. John's (NY),6-8,200,Guard-Forward,14
+1519,200757,"Vevey, Switzerland",6-7,220,Forward,13
+1520,938,Syracuse,6-11,253,Center,9
+1521,202729,Kansas,,,,49
+1522,1627782,Kansas,6-5,230,Guard,Undrafted
+1523,200754,Senegal,6-11,230,Center,10
+1524,202338,Le Moyne,6-10,278,Forward-Center,17
+1525,1738,Mississippi,,,,30
+1526,201196,Nevada,6-3,190,Guard,56
+1527,1593,North Carolina State,6-11,245,Center,32
+1528,201203,Arizona,,,,Undrafted
+1529,1539,Providence,6-0,169,Guard,45
+1530,201594,Alabama-Birmingham,6-9,245,Forward,32
+1531,216,California-Santa Barbara,6-6,200,Guard,24
+1532,1745,Toledo,6-11,255,Center,37
+1533,203129,Belgium,,,,54
+1534,1852,Kentucky,,,,Undrafted
+1535,2321,Iowa State,6-10,230,Forward,Undrafted
+1536,202697,Georgia Tech,6-5,220,Guard,17
+1537,203144,Russia,6-6,187,Guard,Undrafted
+1538,1627783,New Mexico State,6-9,230,Forward,27
+1539,202918,Northern Illinois,6-5,205,Guard,
+1540,202081,Augusta State,6-11,305,Center,Undrafted
+1541,101134,Kansas,6-9,250,Forward,29
+1542,2250,DePaul,6-6,235,Forward,41
+1543,200759,North Carolina State,6-9,235,Forward,15
+1544,203613,Houston,6-6,195,Guard-Forward,Undrafted
+1545,1750,Arizona,6-3,202,Guard,42
+1546,54,Providence,,,,21
+1547,1591,Louisville,,,,Undrafted
+1548,201235,Michigan,,,,Undrafted
+1549,203156,Georgetown,6-10,248,Center-Forward,Undrafted
+1550,202713,Duke,6-8,228,Forward,33
+1551,201606,Virginia,6-0,185,Guard,42
+1552,202698,Florida State,6-9,228,Forward,18
+1553,101189,Murray State,6-8,230,Forward,Undrafted
+1554,203491,Louisville,6-0,185,Guard,56
+1555,1730,Baylor,,,,22
+1556,1073,Wyoming,6-7,255,Forward,Undrafted
+1557,2447,Marshall,,,,53
+1558,202388,Texas A&M,6-3,205,Guard,Undrafted
+1559,101166,Italy,6-10,238,Forward,58
+1560,203935,Oklahoma State,6-4,220,Guard,6
+1561,293,Pittsburgh,6-10,244,Forward,3
+1562,1520,New Mexico,,,,26
+1563,203147,Louisville,,,,Undrafted
+1564,200783,Boston College,6-7,265,Forward,36
+1565,2764,Southeastern Illinois,6-7,215,Guard,34
+1566,202962,Fresno State,6-10,250,Center,Undrafted
+1567,202397,Wake Forest,6-0,175,Guard,Undrafted
+1568,2747,St. Benedict's Prep (NJ),6-6,225,Guard-Forward,18
+1569,2074,Louisiana State,6-11,250,Center,45
+1570,201160,Colorado State,7-0,240,Forward-Center,20
+1571,202536,Louisville,,,,12
+1572,693,Maryland,6-10,225,Forward-Center,1
+1573,2746,Oak Hill Academy (VA),6-9,225,Forward,17
+1574,181,North Carolina,6-3,170,Guard,6
+1575,1910,Martin Luther King HS (IL),6-10,235,Forward,29
+1576,63,Providence,6-8,240,Forward,35
+1577,2065,Louisiana-Monroe,6-8,195,Forward,35
+1578,202701,Duke,6-2,185,Guard,21
+1579,203893,Louisville,,,,47
+1580,120,Michigan State,6-8,221,Guard-Forward,5
+1581,200848,La Salle,,,,Undrafted
+1582,1478,Arizona State,6-2,208,Guard,Undrafted
+1583,2604,Ball State,,,,Undrafted
+1584,380,Marquette,,,,51
+1585,22,Marist,7-4,265,Center,2
+1586,203503,New Mexico,6-7,217,Forward-Guard,20
+1587,727,Michigan State,6-3,205,Guard,43
+1588,2745,Nevada,6-6,225,Forward-Guard,16
+1589,2226,Clemson,,,,32
+1590,2443,Wake Forest,6-9,248,Forward,49
+1591,203480,Syracuse,6-8,215,Forward,Undrafted
+1592,2776,Cal State-Fullerton,6-10,250,Forward,47
+1593,2779,Greece,6-4,195,Guard,50
+1594,201578,Florida,6-10,255,Forward-Center,16
+1595,771,Nevada-Las Vegas,,,,25
+1596,280,Louisville,7-0,290,Center,6
+1597,201168,"Blumenau, Brazil",6-11,245,Center-Forward,28
+1598,84,Alabama,6-5,195,Guard,24
+1599,1756,South Carolina,,,,48
+1600,711,North Carolina,6-6,218,Forward,3
+1601,317,Oklahoma State,6-5,190,Guard,Undrafted
+1602,203917,Michigan,6-6,205,Guard,8
+1603,1099,Michigan State,,,,52
+1604,1735,Slovenia,7-1,255,Center,27
+1605,203474,Memphis,,,,Undrafted
+1606,1086,Arkansas-Little Rock,,,,Undrafted
+1607,202362,Cincinnati,6-5,230,Forward-Guard,40
+1608,1627293,USC,,,,Undrafted
+1609,2052,Washington Union HS (CA),6-5,218,Forward-Guard,23
+1610,1529,Cal State-Bakersfield,6-8,239,Forward,35
+1611,1125,Coppin State,6-8,230,Forward,Undrafted
+1612,1565,California,6-10,230,Center,Undrafted
+1613,201880,Wisconsin,6-11,260,Center,Undrafted
+1614,179,Virginia,6-5,210,Guard,13
+1615,204065,Gonzaga,5-11,165,Guard,Undrafted
+1616,304,Gonzaga,6-1,175,Guard,16
+1617,978,"Belgrade, Serbia",6-10,229,Forward,14
+1618,1055,Arizona,,,,35
+1619,203950,Tennessee,,,,35
+1620,1627754,Maryland,6-11,265,Center,40
+1621,202933,Texas-El Paso,6-6,200,Guard,Undrafted
+1622,2852,Arizona State,6-6,225,Forward-Guard,Undrafted
+1623,757,Arizona,5-10,171,Guard,7
+1624,101136,Arizona,6-1,175,Guard,31
+1625,2405,Cypress Creek (FL),6-10,245,Forward-Center,9
+1626,201199,Maryland,6-5,201,Guard,59
+1627,1065,Nebraska,6-3,218,Guard,Undrafted
+1628,1110,Temple,,,,Undrafted
+1629,393,DePaul,,,,19
+1630,400,Xavier,6-9,240,Forward,47
+1631,201155,Eastern Washington,,,,15
+1632,203096,Ohio State,,,,21
+1633,201969,Georgetown,6-8,240,Forward,35
+1634,201180,"Cangzhou, China",6-9,205,Guard,40
+1635,1743,Croatia,7-2,260,Center,35
+1636,682,Florida State,6-5,200,Guard,17
+1637,2552,Georgetown,6-8,270,Forward,9
+1638,2741,Bakersfield HS (CA),7-1,270,Center,12
+1639,2031,Louisiana State,6-10,220,Forward-Center,2
+1640,202377,"Loudeac, France",6-7,225,Forward-Guard,53
+1641,1136,Augustana (SD),6-11,230,Center,Undrafted
+1642,1887,Miami (OH),6-7,240,Guard-Forward,6
+1643,440,Croatia,7-0,257,Center,51
+1644,2657,Brigham Young-Hawaii,,,,Undrafted
+1645,101147,Pittsburgh,6-10,261,Forward,42
+1646,1434,Croatia,6-11,270,Center-Forward,31
+1647,204002,,7-3,265,Center,43
+1648,101182,Alabama-Birmingham,6-5,193,Guard,Undrafted
+1649,1627819,Texas,6-3,170,Guard,Undrafted
+1650,203106,Vanderbilt,6-7,225,Forward,31
+1651,201966,Central Florida,,,,32
+1652,1511,Tennessee-Chattanooga,6-9,220,Forward,17
+1653,1508,Michigan,,,,14
+1654,201446,Iowa State,6-2,165,Guard,55
+1655,203116,Kansas,,,,41
+1656,201952,Wake Forest,6-2,186,Guard,19
+1657,203104,Kentucky,6-2,190,Guard,29
+1658,203141,Bosnia,6-9,245,Forward,Undrafted
+1659,2742,"Abraham Lincoln HS (Brooklyn, NY)",,,,13
+1660,202066,Louisiana State,6-6,195,Guard,Undrafted
+1661,1891,Arizona,6-2,185,Guard,10
+1662,201934,Connecticut,7-3,263,Center,2
+1663,203519,Memphis,6-7,240,Guard-Forward,Undrafted
+1664,2873,Kansas,6-5,220,Guard,Undrafted
+1665,1063,Eastern Michigan,6-4,195,Guard,Undrafted
+1666,2041,Syracuse,6-10,260,Center,12
+1667,202738,Washington,5-9,185,Guard,60
+1668,1975,Providence,6-6,219,Forward,Undrafted
+1669,2839,Texas,,,,Undrafted
+1670,1519,Minnesota,6-9,265,Center,25
+1671,1903,New Mexico,,,,22
+1672,703,Texas Christian,,,,10
+1673,202498,Duke,6-8,235,Forward,Undrafted
+1674,202952,San Diego State,,,,Undrafted
+1675,1501,Villanova,6-10,240,Forward,7
+1676,200748,Louisiana State,,,,4
+1677,202717,Georgia,6-10,245,Forward,37
+1678,240,Oklahoma State,,,,27
+1679,101159,UCLA,,,,54
+1680,203138,Georgetown,,,,Undrafted
+1681,201574,Rider,6-11,250,Forward-Center,12
+1682,202691,Washington State,6-7,215,Guard,11
+1683,78,Texas,,,,5
+1684,202814,Pepperdine,,,,Undrafted
+1685,202684,Texas,6-9,238,Center-Forward,4
+1686,201154,Florida State,6-8,235,Forward,14
+1687,201977,Louisiana State,,,,43
+1688,901,Providence,6-10,248,Center-Forward,9
+1689,9,West Virginia Tech,6-2,185,Guard,139
+1690,2224,Iowa State,,,,27
+1691,47,Oklahoma,6-9,260,Forward,2
+1692,1627861,Virginia,,,,Undrafted
+1693,201229,Creighton,6-8,240,Forward,Undrafted
+1694,2351,Venezuela,6-6,210,Guard-Forward,Undrafted
+1695,1626253,,6-7,210,Guard-Forward,Undrafted
+1696,700,Notre Dame,,,,Undrafted
+1697,1626157,Kentucky,7-0,244,Center-Forward,1
+1698,1714,Michigan,6-8,284,Forward-Center,6
+1699,718,Ohio,6-8,250,Forward,11
+1700,2244,Southern California,6-4,200,Guard,35
+1701,2456,Poland,7-2,240,Center,Undrafted
+1702,2054,Greece,7-2,290,Center,25
+1703,2401,,7-0,225,Forward,5
+1704,201169,Wisconsin,,,,29
+1705,200782,Texas,6-6,245,Forward,35
+1706,101142,Gonzaga,,,,37
+1707,1726,Turkey,6-9,216,Forward,18
+1708,2045,"Istanbul, Turkey",6-10,220,Forward,16
+1709,202323,Ohio State,6-7,220,Guard-Forward,2
+1710,1626167,Texas,6-11,243,Center-Forward,11
+1711,1943,Kentucky,,,,Undrafted
+1712,202719,San Diego HS,6-10,250,Forward,39
+1713,202775,Siena,,,,Undrafted
+1714,202327,Baylor,6-10,245,Forward,6
+1715,2137,Portland State,,,,Undrafted
+1716,2757,"Sempeter, Slovenia",6-3,205,Guard,28
+1717,101146,"Split, Croatia",,,,41
+1718,1627755,Kentucky,5-10,150,Guard,34
+1719,1627784,,6-9,221,Forward,Undrafted
+1720,202386,Tulsa,6-3,205,Guard,Undrafted
+1721,202685,"Utena, Lithuania",7-0,255,Center,5
+1722,1627756,Michigan State,6-6,212,Guard,14
+1723,89,Cincinnati,6-1,190,Guard,37
+1724,1496,Utah,6-10,245,Forward,2
+1725,1627832,Wichita State,6-0,195,Guard,Undrafted
+1726,2128,St. Bonaventure,6-5,200,Guard,Undrafted
+1727,2237,Yugoslavia,7-1,265,Center,Undrafted
+1728,2760,"Santa Teresa, Brazil",,,,30
+1729,202363,Mississippi State,6-9,230,Forward-Center,41
+1730,202349,Maryland,,,,28
+1731,710,Memphis,,,,25
+1732,1521,Kansas,6-1,190,Guard,27
+1733,1626173,UNLV,6-6,202,Guard,17
+1734,919,Michigan,6-9,240,Forward-Center,13
+1735,202686,"Ostrava, Czech Republic",7-0,242,Forward,6
+1736,101111,Connecticut,6-11,232,Forward,7
+1737,200790,Brazil,,,,43
+1738,1844,Georgia Tech,,,,Undrafted
+1739,203943,Indiana,6-9,245,Forward,9
+1740,2063,Connecticut,6-11,255,Center,33
+1741,2582,Yugoslavia,,,,39
+1742,1037,Croatia,,,,Undrafted
+1743,2761,Iowa State,,,,31
+1744,202696,Southern California,7-0,260,Center,16
+1745,2756,"Maribor, Slovenia",6-7,195,Guard,27
+1746,2548,Marquette,6-4,220,Guard,5
+1747,101144,Florida State,6-5,209,Guard,39
+1748,2402,Memphis,,,,6
+1749,203079,Syracuse,6-4,220,Guard,4
+1750,952,Kentucky,6-9,245,Forward,6
+1751,201611,Kansas State,6-6,235,Forward,47
+1752,202689,Connecticut,6-1,184,Guard,9
+1753,955,Louisville,,,,9
+1754,202322,Kentucky,6-4,210,Guard,1
+1755,1112,Virginia Union,6-9,240,Forward-Center,Undrafted
+1756,2222,Alabama,6-7,220,Forward,25
+1757,961,Syracuse,6-9,225,Forward,18
+1758,739,North Carolina,,,,4
+1759,101190,Florida,,,,Undrafted
+1760,777,Kansas,,,,16
+1761,2575,Arizona,6-8,235,Forward,32
+1762,369,Florida State,,,,26
+1763,203810,Long Beach State,5-10,175,Guard,Undrafted
+1764,203933,North Carolina State,6-8,225,Forward,14
+1765,202378,Oklahoma,6-4,203,Guard,54
+1766,101124,Syracuse,,,,19
+1767,200827,Memphis,,,,Undrafted
+1768,1540,Alabama,6-4,190,Forward-Guard,46
+1769,201208,Syracuse,6-11,258,Center,Undrafted
+1770,201228,Tennessee,6-2,175,Guard,Undrafted
+1771,2248,UCLA,6-1,199,Guard,39
+1772,320,South Carolina,,,,47
+1773,203146,Villanova,,,,Undrafted
+1774,204033,UCLA,,,,Undrafted
+1775,204037,UCLA,6-10,225,Forward,Undrafted
+1776,221,Southern Mississippi,6-7,270,Forward,9
+1777,201602,Washington State,,,,38
+1778,892,North Carolina State,,,,87
+1779,185,Michigan,,,,1
+1780,1627362,Virginia Commonwealth,6-2,165,Guard,Undrafted
+1781,101110,Seattle Prep HS (WA),6-7,230,Forward-Guard,6
+1782,201603,Arkansas,,,,39
+1783,1719,Ball State,6-5,210,Guard-Forward,11
+1784,1528,Austin Peay,6-5,230,Forward,34
+1785,2412,Slovenia,6-7,208,Forward,16
+1786,82,St. John's (NY),,,,16
+1787,438,St. John's (NY),6-11,250,Center,46
+1788,133,Baylor,6-1,203,Guard,Undrafted
+1789,2561,Xavier,6-9,250,Forward,18
+1790,2753,Saint Joseph's,6-3,180,Guard,24
+1791,28,Villanova,,,,38
+1792,201238,Georgia Tech,6-5,210,Guard,Undrafted
+1793,770,Old Dominion,,,,30
+1794,201566,UCLA,6-3,200,Guard,4
+1795,101156,Walsh,,,,51
+1796,941,Alabama,,,,13
+1797,1545,Louisville,6-0,165,Guard,51
+1798,1755,Rhode Island,,,,47
+1799,201591,Indiana,6-9,250,Forward,29
+1800,1751,Georgetown,,,,43
+1801,200778,Cincinnati,6-7,215,Guard-Forward,31
+1802,1627855,Florida State,6-8,204,Forward,Undrafted
+1803,2206,North Carolina-Charlotte,6-9,230,Forward,9
+1804,203091,Iowa State,,,,16
+1805,1627785,Seton Hall,6-4,213,Guard,42
+1806,1126,Northern Illinois,,,,Undrafted
+1807,202355,Marshall,7-0,265,Center,33
+1808,43,Clemson,6-0,175,Guard,47
+1809,203963,Western Michigan,6-11,250,Forward-Center,Undrafted
+1810,203952,Kansas,6-8,199,Guard-Forward,1
+1811,203912,Washington,,,,28
+1812,2404,Maryland,6-10,235,Forward-Center,8
+1813,2863,Georgia,6-6,225,Guard-Forward,Undrafted
+1814,1122,Georgia,6-8,230,Forward,3
+1815,786,Tennessee-Chattanooga,,,,47
+1816,2366,Rice,,,,Undrafted
+1817,1425,Xavier,,,,Undrafted
+1818,1626210,California-Santa Barbara,6-8,260,Forward-Center,Undrafted
+1819,1541,Villanova,,,,47
+1820,1585,Davidson,,,,Undrafted
+1821,433,Maryland,6-8,225,Forward,3
+1822,101114,Illinois,6-3,200,Guard,3
+1823,202682,Arizona,6-8,240,Forward,2
+1824,202343,Memphis,,,,22
+1825,677,Providence,,,,14
+1826,2421,Illinois,6-3,212,Guard,25
+1827,1006,Ohio State,6-11,260,Center,14
+1828,73,Tulane,6-11,245,Center,45
+1829,1715,Florida,,,,7
+1830,101214,North Carolina,,,,Undrafted
+1831,2398,Duke,6-2,195,Guard,2
+1832,420,St. John's (NY),,,,21
+1833,966,Georgetown,6-9,206,Forward-Center,26
+1834,202716,Maryland,6-10,260,Center,36
+1835,200818,Wyoming,,,,Undrafted
+1836,31,Stetson,,,,Undrafted
+1837,101150,South Gwinnett HS (GA),6-1,175,Guard,45
+1838,200766,Connecticut,6-3,205,Guard,22
+1839,201173,Arizona,6-7,207,Guard,33
+1840,101107,North Carolina,6-9,237,Forward,2
+1841,52,Baylor,,,,48
+1842,2590,Alabama,6-1,198,Guard,47
+1843,42,Notre Dame,6-8,225,Forward,24
+1844,199,Georgetown,,,,4
+1845,202130,Virginia Military Institute,,,,Undrafted
+1846,281,North Carolina,,,,Undrafted
+1847,201157,Boston College,6-10,235,Forward-Center,17
+1848,1742,North Carolina,6-1,201,Guard,34
+1849,200761,Memphis,6-10,230,Forward,17
+1850,200749,Duke,6-9,250,Center-Forward,5
+1851,201944,Louisville,6-6,220,Guard-Forward,11
+1852,1576,South Carolina State,,,,Undrafted
+1853,1627786,Indiana,6-7,210,Forward,Undrafted
+1854,1005,Maryland,,,,7
+1855,722,Arkansas,6-7,245,Forward,13
+1856,788,Michigan State,7-0,245,Center-Forward,11
+1857,2000,Iowa State,,,,Undrafted
+1858,1627787,Gonzaga,6-10,240,Forward,Undrafted
+1859,766,Georgetown,6-5,187,Guard-Forward,44
+1860,112,Cincinnati,,,,37
+1861,1626159,Duke,6-7,225,Forward,10
+1862,1868,Minnesota,,,,Undrafted
+1863,203481,Kansas,7-0,231,Center,39
+1864,341,North Carolina,,,,13
+1865,2106,Argentina,6-10,275,Forward,Undrafted
+1866,203489,South Dakota State,,,,38
+1867,1626174,Nevada-Las Vegas,6-11,220,Forward,Undrafted
+1868,116,Nevada-Reno,6-9,230,Forward,Undrafted
+1869,2254,Arizona,7-2,260,Center,45
+1870,2417,Northeast Mississippi Community College,6-8,220,Forward-Guard,21
+1871,906,Oral Roberts,,,,49
+1872,1897,St. John's (NY),6-7,260,Forward,16
+1873,101120,Texas A&M,,,,15
+1874,101152,Indiana,6-3,201,Guard,47
+1875,201148,North Carolina,6-10,210,Forward,8
+1876,202874,Dayton,6-9,226,Forward,Undrafted
+1877,203203,Georgetown,,,,Undrafted
+1878,1626153,Utah,6-5,190,Guard,20
+1879,2748,South Kent Prep (CT),6-9,205,Forward-Guard,19
+1880,201153,Kansas,6-8,225,Forward,13
+1881,953,Memphis,6-11,255,Forward-Center,7
+1882,412,Clemson,,,,6
+1883,203100,Washington,6-6,205,Guard,25
+1884,2397,"Shanghai, China",7-6,310,Center,1
+1885,2428,Tennessee,6-7,210,Forward,32
+1886,201146,"Shenzhen, China",7-0,250,Forward,6
+1887,203923,Kentucky,6-6,215,Guard-Forward,17
+1888,1626202,Oregon,6-2,180,Guard,43
+1889,1748,,,,,40
+1890,201156,Southern California,6-7,210,Guard-Forward,16
+1891,201970,Pittsburgh,6-6,225,Forward-Guard,36
+1892,201152,Georgia Tech,6-8,221,Forward,12
+1893,1937,Stanford,7-2,270,Center,56
+1894,203469,Indiana,7-0,240,Center-Forward,4
+1895,202545,Notre Dame,,,,Undrafted
+1896,203092,North Carolina,7-0,253,Center,17
+1897,1917,China,,,,36
+1898,678,UCLA,,,,22
+1899,2583,Mississippi State,,,,40
+1900,1627757,Nevada-Las Vegas,7-0,240,Center,41
+1901,1627835,,6-8,226,Guard-Forward,48
+1902,1627826,,7-1,240,Center,32
